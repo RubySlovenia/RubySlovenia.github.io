@@ -24,25 +24,25 @@ Here are all the donations so far by the fine folks of our community:
 
 Name|GitHub|#
 -|-|-:
-Blaž Triglav|[blaztriglav](http://github.com/blaztriglav)|2
-Matic Jurglič|[matixmatix](http://github.com/matixmatix)|2
-Martin Artnik|[artoartnik](http://github.com/artoartnik)|1
-Miha Mencin|[radiokills](http://github.com/radiokills)	|0
+Blaž Triglav|@blaztriglav|2
+Matic Jurglič|@matixmatix|2
+Martin Artnik|@artoartnik|1
+Miha Mencin|@radiokills	|0
 Damjan Rems||2
-Darko Bodnaruk|[darkobodnaruk](http://github.com/darkobodnaruk)|1
-Aljaž Fajmut|[introvert](http://github.com/introvert)|2
-Andrej Jančič|[andrejj](http://github.com/andrejj)|5
-Jan Berdajs|[mrbrdo](http://github.com/mrbrdo)|1
-Samo Ratnik|[samotarnik](http://github.com/samotarnik)|5
+Darko Bodnaruk|@darkobodnaruk|1
+Aljaž Fajmut|@introvert|2
+Andrej Jančič|@andrejj|5
+Jan Berdajs|@mrbrdo|1
+Samo Ratnik|@samotarnik|5
 Primož Zagoričnik||2
-Jure Žove|[stigec](http://github.com/stigec)|7
-Hana Jošić|[naisnouk](http://github.com/naisnouk)|1
-Žiga Vidic|[zigomir](http://github.com/zigomir)|1
-Nataša Pristovšek|[fibiola](http://github.com/fibiola)|2
-David Krmpotič|[davidhq](http://github.com/davidhq)|2
+Jure Žove|@stigec|7
+Hana Jošić|@naisnouk|1
+Žiga Vidic|@zigomir|1
+Nataša Pristovšek|@fibiola|2
+David Krmpotič|@davidhq|2
 Roq Xever||2
-Miha Rebernik|[mihar](http://github.com/mihar)|4
-Andraž Brodnik|[brodul](http://github.com/brodul)|1
+Miha Rebernik|@mihar|4
+Andraž Brodnik|@brodul|1
 
 [^1]: While the sticker will survive dishwasher just fine, your laptop might not. Sorry.
 [^2]: You should donate on your own as well.
