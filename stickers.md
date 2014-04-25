@@ -20,7 +20,7 @@ This is how they look:
 
 **Awesome**, right?
 
-Here are all the donations so far by the fine folks of our community:
+## Donations so far by the fine folks of our community:
 
 Name|GitHub|#
 -|-|-:
