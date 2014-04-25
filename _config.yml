@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Slovenia Ruby User Group
-description:      A Ruby User Group for developers in Slovenia and nearby
+title:            Slovenia RUG
+description:      Slovenia Ruby User Group
 url:              http://rug.si/
 encoding:         utf-8
 meetup:
