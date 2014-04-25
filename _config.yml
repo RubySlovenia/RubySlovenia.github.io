@@ -10,8 +10,10 @@ title:            Slovenia RUG
 description:      Slovenia Ruby User Group
 url:              http://rug.si/
 encoding:         utf-8
-meetup:
-  url:            http://www.meetup.com/Ruby-Slovenia/
+
+social:
+  facebook:       https://www.facebook.com/groups/RubySlovenia/
+  meetup:         http://www.meetup.com/RubySlovenia/
 
 author:
   name:           Miha Rekar
