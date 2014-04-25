@@ -10,7 +10,6 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
-    <a class="sidebar-nav-item" href="{{ site.meetup.url }}">Meetup</a>
     {% assign pages_list = site.pages %}
     {% for node in pages_list %}
       {% if node.title != null %}
@@ -19,7 +18,8 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <a class="sidebar-nav-item" href="{{ site.github.repository_url }}">GitHub project</a>
+    <a class="sidebar-nav-item" href="{{ site.meetup.url }}">Meetup</a>
+    <a class="sidebar-nav-item" href="{{ site.github.repository_url }}">GitHub</a>
   </nav>
 
   <div class="sidebar-item">
