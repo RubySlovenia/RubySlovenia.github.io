@@ -1,13 +1,8 @@
-<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-
-<!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
-
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
     {% assign pages_list = site.pages %}
@@ -22,10 +17,9 @@
     <a class="sidebar-nav-item" href="{{ site.social.facebook }}">Facebook</a>
     <a class="sidebar-nav-item" href="{{ site.github.repository_url }}">GitHub</a>
   </nav>
-
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; Slovenia RUG {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
   </div>
 </div>
