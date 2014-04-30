@@ -9,7 +9,7 @@ They are so awesome that you'll want to stick them everywhere, so we decided we'
 
 Now that wasn't cheap, and there are some other expenses with the group (meetup.com subscription fee, domain name,…) which is why we sell them for **€1 per sticker**. *10%* of the income goes towards [Rails Girls SoC](http://railsgirlssummerofcode.org/)[^2], while the other *90%* covers our expenses. Basically it's a **donation** for this group that gives you stickers in return. How **awesome** is that?
 
-You can get them at all of our [meetups](http://www.meetup.com/RubySlovenia/) or we can send them to you via snail mail[^3] if you want them so bad that you just *can not wait*.
+You can get them at all of our [meetups](http://www.meetup.com/RubySlovenia/) or we can send them to you via snail mail[^3] - just [let us know](mailto:info@rug.si).
 
 This is how they look:
 
@@ -46,4 +46,4 @@ Andraž Brodnik|@brodul|1
 
 [^1]: While the sticker will survive dishwasher just fine, your laptop might not. Sorry.
 [^2]: You should donate on your own as well.
-[^3]: Just [let us know](mailto:info@rug.si).
+[^3]: We know you want them so bad that you just *can not wait*.
