@@ -211,28 +211,28 @@ img.emoji{
   margin: 0;
 }
 
-img.gallery {
+.gallery img {
   max-width: 100%;
 }
 
 @media (min-width: 38rem) {
-  img.gallery  {
+  .gallery img  {
     max-width: 48%;
     margin-right: 4%;
     float: left;
   }
-  img.gallery:nth-child(2) {
+  .gallery .last  {
     margin-right: 0;
   }
 }
 
-.clearfix:before,
-.clearfix:after {
+.gallery:before,
+.gallery:after {
   content: "";
   display: table;
 }
 
-.clearfix:after {
+.gallery:after {
   clear: both;
 }
 

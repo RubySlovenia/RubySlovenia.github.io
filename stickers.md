@@ -13,9 +13,21 @@ You can get them at all of our [meetups](http://www.meetup.com/RubySlovenia/) or
 
 This is how they look:
 
-<div class="clearfix">
-  <img src="https://pbs.twimg.com/media/Bl-4dsQIEAEDir1.jpg" alt="Slovenia RUG sticker" class="gallery">
-  <img src="http://distilleryimage4.ak.instagram.com/497d9fb4ca2b11e3ace70002c9c942ac_8.jpg" alt="Slovenia RUG stickers" class="gallery">
+<div class="gallery">
+  <a href="https://twitter.com/tinatavcar/status/459288507614507008">
+    <img src="/assets/img/srug_sticker_tina.jpg" alt="Slovenia RUG sticker">
+  </a>
+  <a href="http://instagram.com/p/nGH1vKLC4k/">
+    <img src="/assets/img/srug_stickers.jpg" alt="Slovenia RUG stickers" class="last">
+  </a>
+</div>
+<div class="gallery">
+  <a href="https://twitter.com/mojcamars/status/459784621497262080">
+    <img src="/assets/img/srug_sticker_mojca.jpg" alt="Slovenia RUG sticker on a laptop">
+  </a>
+  <a href="https://twitter.com/mr_foto/status/461411290968514560">
+    <img src="/assets/img/srug_sticker_miha.jpg" alt="Slovenia RUG sticker on a mug" class="last">
+  </a>
 </div>
 
 **Awesome**, right?
