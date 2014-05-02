@@ -8,12 +8,13 @@ permalink:        pretty
 # Setup
 title:            Slovenia RUG
 description:      Slovenia Ruby User Group
-url:              http://rug.si
+url:              http://www.rug.si
 encoding:         utf-8
 
 social:
-  facebook:       https://www.facebook.com/groups/RubySlovenia/
   meetup:         http://www.meetup.com/RubySlovenia/
+  twitter:        http://www.twitter.com/RubySlovenia/
+  facebook:       https://www.facebook.com/groups/RubySlovenia/
 
 author:
   name:           Miha Rekar
