@@ -29,6 +29,11 @@ This is how they look:
     <img src="/assets/img/srug_sticker_miha.jpg" alt="Slovenia RUG sticker on a mug" class="last">
   </a>
 </div>
+<div class="gallery">
+  <a href="https://twitter.com/ruby_burgers/status/463944101830737922">
+    <img src="/assets/img/srug_sticker_rubyburgers.jpg" alt="Slovenia RUG sticker on the Rubyburgers laptop's bottom">
+  </a>
+</div>
 
 **Awesome**, right?
 
