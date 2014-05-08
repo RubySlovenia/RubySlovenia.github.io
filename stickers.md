@@ -62,6 +62,8 @@ Miha Rebernik|@mihar|4
 Andraž Brodnik|@brodul|1
 José Albornoz|@eljojo|2
 Steven Ragnarök|@nuclearsandwich|25
+Don Goodman-Wilson|@DEGoodmanWilson|1
+Miha Filej|@mfilej|10
 
 [^1]: While the sticker will survive dishwasher just fine, your laptop might not. Sorry.
 [^2]: You should donate on your own as well.
