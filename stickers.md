@@ -13,23 +13,23 @@ This is how they look:
 
 <div class="gallery">
   <a href="https://twitter.com/tinatavcar/status/459288507614507008" target="_blank">
-    <img src="/assets/img/srug_sticker_tina.jpg" alt="Slovenia RUG sticker">
+    <img src="/assets/img/stickers/srug_sticker_tina.jpg" alt="Slovenia RUG sticker">
   </a>
   <a href="http://instagram.com/p/nGH1vKLC4k/" target="_blank">
-    <img src="/assets/img/srug_stickers.jpg" alt="Slovenia RUG stickers" class="last">
+    <img src="/assets/img/stickers/srug_stickers.jpg" alt="Slovenia RUG stickers" class="last">
   </a>
 </div>
 <div class="gallery">
   <a href="https://twitter.com/mojcamars/status/459784621497262080" target="_blank">
-    <img src="/assets/img/srug_sticker_mojca.jpg" alt="Slovenia RUG sticker on a laptop">
+    <img src="/assets/img/stickers/srug_sticker_mojca.jpg" alt="Slovenia RUG sticker on a laptop">
   </a>
   <a href="https://twitter.com/mr_foto/status/461411290968514560" target="_blank">
-    <img src="/assets/img/srug_sticker_miha.jpg" alt="Slovenia RUG sticker on a mug" class="last">
+    <img src="/assets/img/stickers/srug_sticker_miha.jpg" alt="Slovenia RUG sticker on a mug" class="last">
   </a>
 </div>
 <div class="gallery">
   <a href="https://twitter.com/ruby_burgers/status/463944101830737922" target="_blank">
-    <img src="/assets/img/srug_sticker_rubyburgers.jpg" alt="Slovenia RUG sticker on the Rubyburgers laptop's bottom">
+    <img src="/assets/img/stickers/srug_sticker_rubyburgers.jpg" alt="Slovenia RUG sticker on the Rubyburgers laptop's bottom">
   </a>
 </div>
 
