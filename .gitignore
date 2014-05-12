@@ -2,6 +2,7 @@
 _gh_pages
 _site
 .ruby-version
+.ruby-gemset
 .powrc
 
 # Numerous always-ignore extensions
