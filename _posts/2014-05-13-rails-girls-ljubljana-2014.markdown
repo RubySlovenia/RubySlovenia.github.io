@@ -13,12 +13,8 @@ This was the second time that girls have assembled under [RailsGirls.si][rgl] Lj
 To find more about what girls are doing please follow them on [@RailsGirls_LJ](https://twitter.com/RailsGirls_LJ) or visit their [Facebook][rgl-fb] / [home][rgl] page.
 
 <div class="gallery">
-  <a href="/assets/img/posts/2014-05-13-rgl-01.jpg" target="_blank">
-    <img src="/assets/img/posts/2014-05-13-rgl-01.jpg" alt="Hood burger with a Rubyburgers sticker">
-  </a>
-  <a href="/assets/img/posts/2014-05-13-rgl-02.jpg" target="_blank">
-    <img src="/assets/img/posts/2014-05-13-rgl-02.jpg" alt="Atendees of the first Rubyburgers meetup in Slovenia" class="last">
-  </a>
+  <img src="/assets/img/posts/2014-05-13-rgl-01.jpg" alt="Rails Girls Ljubljana friday hug">
+  <img src="/assets/img/posts/2014-05-13-rgl-02.jpg" alt="Rails Girls Ljubljana classroom" class="last">
 </div>
 
 <small><i>Foto: &copy; Rails Girls Ljubljana</i></small>
