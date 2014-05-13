@@ -31,6 +31,7 @@ This is how they look:
   <a href="https://twitter.com/ruby_burgers/status/463944101830737922" target="_blank">
     <img src="/assets/img/stickers/srug_sticker_rubyburgers.jpg" alt="Slovenia RUG sticker on the Rubyburgers laptop's bottom">
   </a>
+  <img src="/assets/img/stickers/srug_sticker_heisenberg.jpg" alt="Slovenia RUG sticker on a laptop with Heisenberg" class="last">
 </div>
 
 **Awesome**, right? :tada:
