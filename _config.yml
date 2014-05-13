@@ -15,10 +15,15 @@ social:
   twitter:        http://www.twitter.com/RubySlovenia/
   facebook:       https://www.facebook.com/groups/RubySlovenia/
 
-author:
-  name:           Miha Rekar
-  url:            https://mr.si/
-  email:          info@rug.si
+authors:
+  mrfoto:
+    name:           Miha Rekar
+    url:            http://mr.si/
+    email:          info@rug.si
+  otobrglez:
+    name:           Oto Brglez
+    url:            http://opalab.com/
+    email:          otobrglez@gmail.com
 
 paginate:         5
 

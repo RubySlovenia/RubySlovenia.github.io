@@ -10,16 +10,22 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name>{{ site.authors['mrfoto'].name }}</name>
+   <email>{{ site.authors['mrfoto'].email }}</email>
  </author>
  {% for post in site.posts %}
+ {% assign author = site.authors[post.author] %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
+   <author>
+     <name>{{ author.name }}</name>
+     <email>{{ author.email }}</email>
+     <uri>{{ author.url }}</uri>
+   </author>
  </entry>
  {% endfor %}
 </feed>

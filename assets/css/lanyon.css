@@ -322,6 +322,15 @@ a.sidebar-nav-item:focus {
   color: #9a9a9a;
 }
 
+a.author {
+  color: #9a9a9a!important;
+  text-decoration: underline;
+}
+
+a.author:hover {
+  text-decoration: none;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;
