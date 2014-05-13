@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rails Girls Ljubljana 2014
+author: otobrglez
 ---
 
 Past weekend was dedicated to [Rails Girls][rails-girls] initiative. Social / hacking event for girls that want to learn programming with Ruby and Rails.

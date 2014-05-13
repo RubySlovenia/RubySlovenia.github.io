@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome
+author: mrfoto
 ---
 
 This is our **new webpage**. It's not perfect but it'll do just fine.
