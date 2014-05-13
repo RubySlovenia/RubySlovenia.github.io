@@ -4,7 +4,7 @@ title: May Meetup
 author: mrfoto
 ---
 
-The month is coming to an end and that means that our monthly meetup is coming around. This meetup is going to be a little different. *Again*. We're moving the meetup to **Monday** and to a **new location**. *Again*. :pensive:
+The month is coming to an end and that means that our [monthly meetup](http://www.meetup.com/RubySlovenia/events/182420662/) is coming around. This meetup is going to be a little different. *Again*. We're moving the meetup to **Monday** and to a **new location**. *Again*. :pensive:
 
 After the talks part is over we usually sit down at the bar tables with the *people we already know*. You know - programmers are introverted and all that. The problem is that you **don't get to meet new people** or **exchange your ideas with someone you don't know**. Another problem is that **someone** (you know who :grin:) starts talking about bitcoins and there is no way you can switch tables now. *Fuck!*
 
