@@ -14,6 +14,8 @@ For the meetup: We'll have a guest from *across the narrow sea*. **Don Goodman-W
 
 After the talks we'll do a public debate on why **#TDDisDead** and what to do with our lives now. When the debate will start going south, we'll move to the bar and *drink in desperation*.
 
+Oh, almost forgot. [**D·Labs**](http://dlabs.si/) is again going to **buy a drink** for every attendee of the meetup. They're **awesome** like that.
+
 Looking forward to another great meetup!
 
 P.S.: Bring friends :wink:
