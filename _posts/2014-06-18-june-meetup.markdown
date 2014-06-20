@@ -10,7 +10,7 @@ We moved this meetup to Monday, because Wednesday is a national holiday and we f
 
 The meetup will again take place in the [**Poligon Creative Centre**](http://www.poligon.si/). Everyone seemed to really like the place so we can finally say we settled on the location for all of our future meetups. [**RSVP on meetup**](http://www.meetup.com/RubySlovenia/events/188424902/).
 
-The first talk of the meetup will be by **Martin Artnik** (@artoartnik) from [**D·Labs**](http://dlabs.si/), who is still deciding on the topic. The second one will be by **Tomaž Zaman** (@carmivore) from [**Codeable**](https://codeable.io/) on *Continuous deployment of Rails apps on AWS OpsWorks*.
+The first talk of the meetup will be by **Martin Artnik** (@artoartnik) from [**D·Labs**](http://dlabs.si/), whose talk is going to be about *Useless Gems*. The second one will be by **Tomaž Zaman** (@carmivore) from [**Codeable**](https://codeable.io/) on *Continuous deployment of Rails apps on AWS OpsWorks*.
 
 This might be our last proper meetup for a while, because we know you all scatter to the coast during summertime. We will probably still meet for a :beer: or even [Rubyburgers]({% post_url 2014-05-09-burgers %}) but no details yet.
 
