@@ -24,6 +24,10 @@ authors:
     name:           Oto Brglez
     url:            http://otobrglez.opalab.com/
     email:          otobrglez@gmail.com
+  zigomir:
+    name:           Žiga Vidic
+    url:            https://twitter.com/zigomir
+    email:          zigomir@gmail.com
 
 paginate:         5
 
