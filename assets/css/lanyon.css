@@ -448,6 +448,7 @@ a.pagination-item:hover {
   background-color: #cd342c;
 }
 .theme-base-08 .container a,
+.theme-base-08 .container a strong,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
   color: #cd342c;
