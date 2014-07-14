@@ -16,6 +16,8 @@ $button_border_radius: 30px
 html, body
   margin: 0px
   padding: 0px
+  background-color: #f7f7f7
+  height: 100%
 
 body
   font-family: 'Noto Sans', sans-serif
@@ -33,7 +35,7 @@ a
 
   .wrap
     margin: 0px auto
-    max-width: 960px
+    max-width: 1200px
     position: relative
     padding-left: 5px
     padding-right: 5px
@@ -53,8 +55,9 @@ a
   clear: both
   float: none
   text-align: right
-  background-color: #FFF
-  border-bottom: 1px solid pink
+
+  // background-color: rgba(255, 255, 255, 0.6)
+  background-color: white
 
   .cell
     display: inline-block
@@ -143,3 +146,39 @@ a
       &.next
         background-color: white
         color: $color_dark
+
+.main .front-feed
+  // background-color: #333
+  margin-top: 90px
+
+  ul, li
+    list-style: none
+    margin: 0px
+    padding: 0px
+  ul
+    margin-left: -2.5%
+    font-size: 0px
+  li
+    display: inline-block
+    box-sizing: border-box
+    -moz-box-sizing: border-box
+    -webkit-box-sizing: border-box
+    padding: 10px
+    width: 30.83%
+    margin: 0 0 2.5% 2.5%
+    font-size: 16px
+    vertical-align: top
+    background-color: white
+
+    // &:nth-child(3n)
+    //   background-color: red
+
+    &.post
+      box-shadow: 0px 1px 3px 0px rgba(20, 20, 20, 0.12)
+      text-shadow: 0px 1px 3px rgba(20, 20, 20, 0.12)
+      // margin-bottom: 20px
+
+      .post-wrap
+        padding: 5px
+
+
