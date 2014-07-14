@@ -4,6 +4,7 @@ _site
 .ruby-version
 .ruby-gemset
 .powrc
+notes.txt
 
 # Numerous always-ignore extensions
 *.diff
