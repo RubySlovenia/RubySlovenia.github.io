@@ -1,9 +1,145 @@
 //
-// rug14 theme by
+// ~~~   Slovenia Ruby User Group Theme 2014    ~~~
 // Design: Jaka Šmid - https://twitter.com/JakaSmid
 // Code: Oto Brglez - https://twitter.com/otobrglez
 //
+// You? -> https://github.com/SloveniaRUG
+//
+
+$color_red:  #cc342d
+$color_grey: #b3b3b3
+$color_dark: #333
+$color_pink: #f19da2
+$color_grey_light: #e6e6e6
+$button_border_radius: 30px
 
 html, body
   margin: 0px
   padding: 0px
+
+body
+  font-family: 'Noto Sans', sans-serif
+  font-size: 18px
+  position: relative
+  padding-top: 70px
+
+a
+  text-decoration: none
+  color: $color_grey
+
+.header, .main, .footer, .big-what
+  display: block
+  position: relative
+
+  .wrap
+    margin: 0px auto
+    max-width: 960px
+    position: relative
+    padding-left: 5px
+    padding-right: 5px
+
+.header
+  width: 100%
+  z-index: 100
+  display: block
+  position: fixed
+  top: 0px
+  left: 0px
+  right: 0px
+  height: 60px
+  line-height: 55px
+  padding-top: 7px
+  padding-bottom: 7px
+  clear: both
+  float: none
+  text-align: right
+  background-color: #FFF
+  border-bottom: 1px solid pink
+
+  .cell
+    display: inline-block
+
+  .cell.brand
+    position: absolute
+    left: 5px
+    top: 0px
+    a
+      font-size: 18px
+      color: $color_dark
+
+  .menu
+    text-transform: uppercase
+    font-size: 14px
+    // font-weight: 700
+    ul, li
+      list-style: none
+      margin: 0px
+      padding: 0px
+
+    li
+      display: inline-block
+      float: left
+
+    &.main
+      margin-right: 20px
+      a
+        padding-left: 10px
+        padding-right: 10px
+        color: $color_grey
+        &:hover, &:active
+          color: $color_red
+
+    &.social
+      border: 1px solid $color_grey_light
+      border-right: none
+      a
+        border-right: 1px solid $color_grey_light
+        display: block
+        width: 60px
+        text-align: center
+        overflow: hidden
+        background-position: center
+        background-repeat: no-repeat
+        text-indent: -500px
+
+.big-what
+  border-bottom: 1px solid pink
+  background-image: url('/assets/img/pttrn.jpg')
+  background-position: top center
+  padding-top: 80px
+  height: 250px
+
+  .mission, .invite
+    text-align: center
+
+  .mission
+    font-size: 36px
+    font-weight: 700
+    color: white
+  .invite
+    padding-top: 10px
+    font-size: 18px
+    color: $color_pink
+
+  .buttons
+    padding-top: 40px
+    text-align: center
+    display: block
+
+    a
+      font-size: 14px
+      display: inline-block
+      border: 1px solid #FFF
+      min-width: 220px
+      text-align: center
+      height: 45px
+      line-height: 45px
+      text-transform: uppercase
+      -webkit-border-radius: $button_border_radius
+      -moz-border-radius: $button_border_radius
+      border-radius: $button_border_radius
+      color: white
+
+      &.next
+        background-color: white
+        color: $color_dark
