@@ -33,7 +33,7 @@ Andraž Brodnik|@brodul|1
 José Albornoz|@eljojo|2
 Steven Ragnarök|@nuclearsandwich|25
 Don Goodman-Wilson|@DEGoodmanWilson|1
-Miha Filej|@mfilej|10
+Miha Filej|@mfilej|30
 Oto Brglez|@otobrglez|3
 Blaž Janež||2
 Klemen Nagode|@knagode|5
