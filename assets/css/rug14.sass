@@ -13,6 +13,10 @@ $color_pink: #f19da2
 $color_grey_light: #e6e6e6
 $button_border_radius: 30px
 
+@mixin main-shadow
+  box-shadow: 0px 1px 3px 0px rgba(20, 20, 20, 0.12)
+  text-shadow: 0px 1px 3px rgba(20, 20, 20, 0.12)
+
 html, body
   margin: 0px
   padding: 0px
@@ -57,6 +61,7 @@ a
   text-align: right
 
   // background-color: rgba(255, 255, 255, 0.6)
+  @include main-shadow
   background-color: white
 
   .cell
@@ -106,7 +111,7 @@ a
         text-indent: -500px
 
 .big-what
-  border-bottom: 1px solid pink
+  // border-bottom: 1px solid pink
   background-image: url('/assets/img/pttrn.jpg')
   background-position: top center
   padding-top: 80px
@@ -174,10 +179,7 @@ a
     //   background-color: red
 
     &.post
-      box-shadow: 0px 1px 3px 0px rgba(20, 20, 20, 0.12)
-      text-shadow: 0px 1px 3px rgba(20, 20, 20, 0.12)
-      // margin-bottom: 20px
-
+      @include main-shadow
       .post-wrap
         padding: 5px
 
