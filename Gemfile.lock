@@ -127,6 +127,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (~> 29)
+  github-pages
   jekyll-sass
   nokogiri (~> 1.6.x)
