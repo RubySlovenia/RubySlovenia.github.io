@@ -67,12 +67,19 @@ a
   .cell
     display: inline-block
 
-  .cell.brand
-    position: absolute
-    left: 5px
-    top: 0px
-    a
+  .home
+
+    .logo
+      float: left
+      background: url("/assets/img/logo-white.svg") no-repeat #BB3331 4px
+      background-size: 50px
+      height: 57px
+      width: 57px
+
+    .cell.brand
+      float: left
       font-size: 18px
+      padding-left: 16px
       color: $color_dark
 
   .menu
@@ -182,5 +189,3 @@ a
       @include main-shadow
       .post-wrap
         padding: 5px
-
-
