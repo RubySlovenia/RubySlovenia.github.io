@@ -44,6 +44,28 @@ a
     padding-left: 5px
     padding-right: 5px
 
+.menu
+  text-transform: uppercase
+  font-size: 14px
+  // font-weight: 700
+  ul, li
+    list-style: none
+    margin: 0px
+    padding: 0px
+
+  li
+    display: inline-block
+    float: left
+
+  &.main
+    margin-right: 20px
+    a
+      padding-left: 10px
+      padding-right: 10px
+      color: $color_grey
+      &:hover, &:active
+        color: $color_red
+
 .header
   width: 100%
   z-index: 100
@@ -81,28 +103,6 @@ a
       font-size: 18px
       padding-left: 16px
       color: $color_dark
-
-  .menu
-    text-transform: uppercase
-    font-size: 14px
-    // font-weight: 700
-    ul, li
-      list-style: none
-      margin: 0px
-      padding: 0px
-
-    li
-      display: inline-block
-      float: left
-
-    &.main
-      margin-right: 20px
-      a
-        padding-left: 10px
-        padding-right: 10px
-        color: $color_grey
-        &:hover, &:active
-          color: $color_red
 
     &.social
       border: 1px solid $color_grey_light
@@ -189,3 +189,27 @@ a
       @include main-shadow
       .post-wrap
         padding: 5px
+
+
+.footer
+  height: 75px
+  color: $color_grey
+  border-top: 1px solid $color_grey
+
+  .copyright
+    position: relative
+    float: left
+    top: 25px
+
+  .logo
+    height: 57px
+    margin: 0 auto
+    width: 100%
+    top: -15px
+    position: relative
+
+  .menu
+    float: right
+    margin-right: 0
+    position: relative
+    top: -57px
