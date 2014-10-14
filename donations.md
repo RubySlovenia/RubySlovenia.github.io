@@ -39,8 +39,11 @@ Blaž Janež||2
 Klemen Nagode|@knagode|5
 Christian Kopač|@teatang|1
 Peter Grosskopf|@peterlih|1
+Piotr Szotkowski|@chastell|1
+Good people of [ArrrrCamp 2014](http://2014.arrrrcamp.be/)[^3]|@arrrrcamp|7
 
 :sparkling_heart: :heartbeat: :heartpulse: :cupid: :revolving_hearts: :purple_heart: :blue_heart: :yellow_heart: :green_heart: :heart: Thank you all! :heart: :green_heart: :yellow_heart: :blue_heart: :purple_heart: :revolving_hearts: :cupid: :heartpulse: :heartbeat: :sparkling_heart:
 
 [^1]: You should donate on your own as well.
 [^2]: We know you want them so bad that you just *can not wait*.
+[^3]: Do [let me know](https://twitter.com/RubySlovenia) who you were, so I can feature you. My memory sucks :grin:
