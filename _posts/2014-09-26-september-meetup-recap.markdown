@@ -27,5 +27,7 @@ We finished with [Klemen Nagode](https://twitter.com/knagode) and his "10 things
 
 Next time be sure to [join us][join-us]!
 
+<iframe src="http://new.livestream.com/accounts/564247/events/3393723/videos/63091451/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
+
 [join-us]: http://www.meetup.com/RubySlovenia/
 [pcc]: http://www.poligon.si/
