@@ -10,6 +10,8 @@ Damjan Rems presented DRGCMS - a custom build Rails + Mongo CMS that powers [pod
 
 [Islam Mušić](https://twitter.com/imusic0609) talked about how he used [Spree](https://github.com/spree/spree) to create e-commerce site for [Slovenian Kickstarter success story ONDU](http://www.ondu.si/).
 
+<iframe src="http://www.slideshare.net/islammusic/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
 We finished with [Klemen Nagode](https://twitter.com/knagode) and his "10 things I learned at Baruco conference".
 
 <div class="gallery">
