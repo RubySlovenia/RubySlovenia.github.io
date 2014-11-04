@@ -13,11 +13,11 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <a class="sidebar-nav-item" href="{{ site.social.meetup }}" target="_blank">Meetup</a>
-    <a class="sidebar-nav-item" href="{{ site.social.twitter }}" target="_blank">Twitter</a>
-    <a class="sidebar-nav-item" href="{{ site.social.facebook }}" target="_blank">Facebook</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repository_url }}" target="_blank">GitHub</a>
-    <a class="sidebar-nav-item" href="{{ site.social.mailchimp }}" target="_blank">Subscribe to our Newsletter</a>
+    <a class="sidebar-nav-item" href="{{ site.social.meetup }}" target="_blank" onclick="trackOutboundLink('{{ site.social.meetup }}'); return false;">Meetup</a>
+    <a class="sidebar-nav-item" href="{{ site.social.twitter }}" target="_blank" onclick="trackOutboundLink('{{ site.social.twitter }}'); return false;">Twitter</a>
+    <a class="sidebar-nav-item" href="{{ site.social.facebook }}" target="_blank" onclick="trackOutboundLink('{{ site.social.facebook }}'); return false;">Facebook</a>
+    <a class="sidebar-nav-item" href="{{ site.github.repository_url }}" target="_blank" onclick="trackOutboundLink('{{ site.github.repository_url }}'); return false;">GitHub</a>
+    <a class="sidebar-nav-item" href="{{ site.social.mailchimp }}" target="_blank" onclick="trackOutboundLink('{{ site.social.mailchimp }}'); return false;">Subscribe to our Newsletter</a>
   </nav>
   <div class="sidebar-item">
     <p>

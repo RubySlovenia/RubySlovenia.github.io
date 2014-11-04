@@ -10,6 +10,12 @@
       ga('create', 'UA-51910539-1', 'rug.si');
       ga('require', 'displayfeatures');
       ga('send', 'pageview');
+
+      var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+          function () { document.location = url; }
+        });
+      };
     </script>
     {% include sidebar.html %}
     <div class="wrap">
