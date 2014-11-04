@@ -18,9 +18,9 @@ Mitja Mavsar; gave gentle introduction to UX and then did session of UX Fixing. 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/wVVmdsx5jI8" frameborder="0" allowfullscreen></iframe>
 
-<small><i>Video: &copy; @vzivo_si</i></small>
+<small><i>Video: &copy; [@vzivo_si](http://www.vzivo.si/)</i></small>
 
-Beer after event was sponsored by [Leadformance](http://www.leadformance.com/). Guys are looking for Ruby on Rails developers; [remote contractors welcome](http://jobs.leadformance.com/).
+Drinks after event ware sponsored by [Leadformance](http://www.leadformance.com/). Guys are looking for Ruby on Rails developers; [remote contractors welcome](http://jobs.leadformance.com/).
 
 Next meetup will be on 27th of November 2014 - [join us][join-us] in [Poligon][pcc]
 
