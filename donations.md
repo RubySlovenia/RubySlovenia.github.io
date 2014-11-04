@@ -43,6 +43,8 @@ Piotr Szotkowski|@chastell|1
 Hannes Fostie|@hannesfostie|2
 Grzegorz Witek|@arnvald|1
 Good people of [ArrrrCamp 2014](http://2014.arrrrcamp.be/)[^3]|@arrrrcamp|4
+Lenart Rudel|@lenart|2
+Ilya Vassilevsky|@vassilevsky|5
 
 :sparkling_heart: :heartbeat: :heartpulse: :cupid: :revolving_hearts: :purple_heart: :blue_heart: :yellow_heart: :green_heart: :heart: Thank you all! :heart: :green_heart: :yellow_heart: :blue_heart: :purple_heart: :revolving_hearts: :cupid: :heartpulse: :heartbeat: :sparkling_heart:
 
