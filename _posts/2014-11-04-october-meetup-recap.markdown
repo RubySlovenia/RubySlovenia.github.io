@@ -16,7 +16,7 @@ Miha Mencin - Ruby developer from D.Labs - reported his experience with [ArrrrCa
 
 Mitja Mavsar; gave gentle introduction to UX and then did session of UX Fixing. <small>(Slovenian video)</small>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/wVVmdsx5jI8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/ea6LbkOx4ao" frameborder="0" allowfullscreen></iframe>
 
 <small><i>Video: &copy; [@vzivo_si](http://www.vzivo.si/)</i></small>
 
