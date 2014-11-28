@@ -34,7 +34,7 @@ José Albornoz|@eljojo|2
 Steven Ragnarök|@nuclearsandwich|25
 Don Goodman-Wilson|@DEGoodmanWilson|1
 Miha Filej|@mfilej|30
-Oto Brglez|@otobrglez|3
+Oto Brglez|@otobrglez|8
 Blaž Janež||2
 Klemen Nagode|@knagode|5
 Christian Kopač|@teatang|1
@@ -45,6 +45,8 @@ Grzegorz Witek|@arnvald|1
 Good people of [ArrrrCamp 2014](http://2014.arrrrcamp.be/)[^3]|@arrrrcamp|4
 Lenart Rudel|@lenart|2
 Ilya Vassilevsky|@vassilevsky|5
+Aleks Jakulin||2
+Mitja Bezenšek|@MitjaBezensek|1
 
 :sparkling_heart: :heartbeat: :heartpulse: :cupid: :revolving_hearts: :purple_heart: :blue_heart: :yellow_heart: :green_heart: :heart: Thank you all! :heart: :green_heart: :yellow_heart: :blue_heart: :purple_heart: :revolving_hearts: :cupid: :heartpulse: :heartbeat: :sparkling_heart:
 
