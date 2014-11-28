@@ -20,7 +20,7 @@ We also had [Swizec](https://twitter.com/swizec) visiting us from [Ljubljana JS 
 
 <iframe style="width:100%" height="400" src="//www.youtube.com/embed/LED7ezyT7l0" frameborder="0" allowfullscreen></iframe>
 
-Slides from his talk are available on [sliderdeck](https://speakerdeck.com/swizec/wat-dot-dot-dot-are-we-doing-to-ourselves).
+Slides from his talk are available [here](https://speakerdeck.com/swizec/wat-dot-dot-dot-are-we-doing-to-ourselves).
 
 After official meetup ended we also opened floor for lightning talks. Few guys stepped up,..
 
