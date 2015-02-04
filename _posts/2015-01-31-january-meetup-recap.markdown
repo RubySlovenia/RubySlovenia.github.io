@@ -18,6 +18,9 @@ We started 2015 with JavaScript, Go and of course Ruby! Thanks to [@vzivo_si](ht
 
 <iframe style="width:100%" height="400" src="//www.youtube.com/embed/XwKyJDg3loM" frameborder="0" allowfullscreen></iframe>
 
+<iframe src="https://docs.google.com/presentation/d/1v0OTgoNEm32sdKUPHaFSjfOhClRKpyZ8y6tM9-h5Rxg/embed?start=false&loop=false&delayms=5000" frameborder="0" style="width:100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 <hr/>
 
 [Jan Berdajs](), CTO of [RankTrackr](http://ranktrackr.net/) has presented his new Ruby gem - [Datasource](https://github.com/kundi/datasource).
