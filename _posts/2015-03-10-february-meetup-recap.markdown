@@ -2,6 +2,7 @@
 layout: post
 title: February Meetup Recap
 author: mrfoto
+bg_photo: ./assets/img/posts/2015-03-10-bg.png
 ---
 
 Another month, another meetup. We had a blast and thanks to [@vzivo_si](http://www.vzivo.si/), everything was recorded.

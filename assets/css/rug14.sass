@@ -14,7 +14,7 @@ $color_grey_light: #e6e6e6
 $button_border_radius: 30px
 
 @mixin main-shadow
-  box-shadow: 0px 1px 3px 0px rgba(20, 20, 20, 0.12)
+  box-shadow: 0px 1px 3px 0px rgba(20, 20, 20, 0.30)
   text-shadow: 0px 1px 3px rgba(20, 20, 20, 0.12)
 
 html, body
@@ -24,14 +24,17 @@ html, body
   height: 100%
 
 body
-  font-family: 'Neue Helvetica', Helvetica, 'Noto Sans', sans-serif
-  font-size: 18px
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+  // font-size: 18px
   position: relative
   padding-top: 70px
 
 a
   text-decoration: none
   color: $color_grey
+
+h1, h2, h3
+  font-weight: normal
 
 .header, .main, .footer, .big-what
   display: block
@@ -45,7 +48,7 @@ a
     padding-right: 5px
 
 .menu
-  text-transform: uppercase
+  // text-transform: uppercase
   font-size: 14px
   // font-weight: 700
   ul, li
@@ -117,6 +120,11 @@ a
         background-repeat: no-repeat
         text-indent: -500px
 
+  .cell.menu.social
+    a
+      margin-right: 10px
+
+
 .big-what
   // border-bottom: 1px solid pink
   background-image: url('/assets/img/pttrn.jpg')
@@ -187,9 +195,19 @@ a
 
     &.post
       @include main-shadow
-      .post-wrap
-        padding: 5px
 
+      &.with-bg-photo
+        background-position: center
+        background-repeat: no-repeat
+        background-size: cover
+        text-shadow: 0px 1px 3px rgba(20, 20, 20, 0.90)
+
+        color: white
+        h1, h2, a
+          color: white
+
+      .post-wrap
+        padding: 10px
         h1
           margin-top: 0px
         .about

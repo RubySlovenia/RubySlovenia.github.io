@@ -2,6 +2,7 @@
 layout: post
 title: January Meetup Recap
 author: otobrglez
+bg_photo: ./assets/img/posts/edgar.png
 ---
 
 We started 2015 with JavaScript, Go and of course Ruby! Thanks to [@vzivo_si](http://www.vzivo.si/), everything was recorded.
