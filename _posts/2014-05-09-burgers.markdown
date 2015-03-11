@@ -2,6 +2,7 @@
 layout: post
 title: Rubyburgers
 author: mrfoto
+bg_photo: http://photos1.meetupstatic.com/photos/event/6/e/7/0/600_361468272.jpeg
 ---
 
 The first [Rubyburgers](http://rubyburgers.co/) meetup in Slovenia was a huge success. Thanks to all of you who came to grab some awesome :hamburger:, talk Ruby, and exchange [stickers](/stickers). I'm sure we will do this **again** :sunglasses:
