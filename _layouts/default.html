@@ -22,158 +22,30 @@
   <body>
     {% include header.html %}
 
-    <div class="big-what">
-      <div class="wrap">
-        <div class="mission">User group for Ruby developers from Slovenia.</div>
-        <div class="invite">You should join if you like/are interested in Ruby and you're nearby. ;)</div>
-        <div class="buttons">
-          <a href="#" class="next">Attend next meetup</a>
-          <a href="#">Past meetup recap</a>
-        </div><!-- /.butttons -->
-      </div><!-- /.wrap -->
-    </div><!-- /.big-what -->
+    {% include bigwhat.html %}
 
     <div class="main">
       <div class="wrap">
+
         <div class="front-feed">
           <ul>
-            <li class="post">
-              <div class="post-wrap">
-                <div class="type">
-                  Upcoming event
-                </div><!-- /.type -->
-
-                <h1><a href="#">June Meetpup</a></h1>
-
-                <div class="summary">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamco
-                  re et dolore magna aliqua. Ut enim ad minim veniam,re et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamcore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamco
-                  quis nostrud exercitation ullamco
-                </div>
-
-                <div class="about">
-                  <div class="author">
-                    By <a href="#">Oto Brglez</a>
+            {% for post in paginator.posts %}
+              {% assign author = site.authors[post.author] %}
+              <li class="post">
+                <div class="post-wrap">
+                  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                  <div class="summary">
+                    {{ post.content | strip_html | truncatewords: 30 }}
                   </div>
-
-                  <div class="date">
-                    27 May 2014
-                  </div>
-                </div><!-- /.about -->
-              </div><!-- /.post-wrap -->
-            </li><!-- /.post -->
-            <li class="post">
-              <div class="post-wrap">
-                <div class="type">
-                  Upcoming event
-                </div><!-- /.type -->
-
-                <h1><a href="#">June Meetpup</a></h1>
-
-                <div class="summary">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamco
-                </div>
-
-                <div class="about">
-                  <div class="author">
-                    By <a href="#">Oto Brglez</a>
-                  </div>
-
-                  <div class="date">
-                    27 May 2014
-                  </div>
-                </div><!-- /.about -->
-              </div><!-- /.post-wrap -->
-            </li><!-- /.post -->
-            <li class="post">
-              <div class="post-wrap">
-                <div class="type">
-                  Upcoming event
-                </div><!-- /.type -->
-
-                <h1><a href="#">June Meetpup</a></h1>
-
-                <div class="summary">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamco
-                </div>
-
-                <div class="about">
-                  <div class="author">
-                    By <a href="#">Oto Brglez</a>
-                  </div>
-
-                  <div class="date">
-                    27 May 2014
-                  </div>
-                </div><!-- /.about -->
-              </div><!-- /.post-wrap -->
-            </li><!-- /.post -->
-            <li class="post">
-              <div class="post-wrap">
-                <div class="type">
-                  Upcoming event
-                </div><!-- /.type -->
-
-                <h1><a href="#">June Meetpup</a></h1>
-
-                <div class="summary">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamcore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamcore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamco
-                </div>
-
-                <div class="about">
-                  <div class="author">
-                    By <a href="#">Oto Brglez</a>
-                  </div>
-
-                  <div class="date">
-                    27 May 2014
-                  </div>
-                </div><!-- /.about -->
-              </div><!-- /.post-wrap -->
-            </li><!-- /.post -->
-            <li class="post">
-              <div class="post-wrap">
-                <div class="type">
-                  Upcoming event
-                </div><!-- /.type -->
-
-                <h1><a href="#">June Meetpup</a></h1>
-
-                <div class="summary">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                  quis nostrud exercitation ullamco
-                </div>
-
-                <div class="about">
-                  <div class="author">
-                    By <a href="#">Oto Brglez</a>
-                  </div>
-
-                  <div class="date">
-                    27 May 2014
-                  </div>
-                </div><!-- /.about -->
-              </div><!-- /.post-wrap -->
-            </li><!-- /.post -->
-
-
-
-
+                  <div class="about">
+                    Written by <span class="author"><a href="{{ author.url }}">{{ author.name }}</a></span> on <span class="date">{{ post.date | date_to_string }}.</span>
+                  </div><!-- /.about -->
+                </div><!-- /.post-wrap -->
+              </li><!-- /.post -->
+            {% endfor %}
           </ul>
-        <div><!-- /.front-feed -->
+        </div><!-- /.front-feed -->
+
       </div><!-- /.wrap -->
     </div><!-- /.main -->
 
