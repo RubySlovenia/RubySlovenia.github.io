@@ -3,6 +3,8 @@ layout: page
 title: Stickers
 ---
 
+# Slovenia Ruby User Group Stickers
+
 [Tina Tavčar](http://www.tinatavcar.com/) designed this really awesome logo for our group that merges the two loves of our life: *Ruby* and *Slovenia*. And there is nothing more Slovenian than our [national symbol Triglav](http://en.wikipedia.org/wiki/Triglav#National_symbol). Of course you want to wear this with pride on all of your stuff, which is why we made **stickers**.
 
 They are so awesome that you'll want to stick them everywhere, so we decided we'll let [stickermule](http://www.stickermule.com/unlock?ref_id=0576840701) make them. That means that not only they look **amazing**, they are also able to withstand exposure to [wind, rain, sunlight, and they're even **dishwasher safe**](http://fast.wistia.net/embed/iframe/knj2iwmum4?autoPlay=true)[^1]. Stick 'em to your *laptop*, your *favorite coffee mug*, your *office door*, or even your *car*. The sticker wont mind. You can also *give it away* to someone you meet at the next conference you attend. It's a great conversation starter :wink:
