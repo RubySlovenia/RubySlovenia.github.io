@@ -24,6 +24,7 @@ Thumbs.db
 .cache
 .project
 .settings
+.sass-cache/
 .tmproj
 *.esproj
 nbproject
