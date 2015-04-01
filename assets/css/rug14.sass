@@ -15,10 +15,9 @@ $color_dark: #333
 $color_pink: #f19da2
 $color_grey_light: #e6e6e6
 $button_border_radius: 30px
-
-@mixin main-shadow
-  box-shadow: 0px 1px 3px 0px rgba(20, 20, 20, 0.30)
-  text-shadow: 0px 1px 3px rgba(20, 20, 20, 0.12)
+$break_xs: 380px
+$break_small: 505px
+$break_medium: 640px
 
 html, body
   margin: 0px
@@ -49,6 +48,7 @@ h1, h2, h3
     position: relative
     padding-left: 5px
     padding-right: 5px
+    padding-top: 2px
 
 .menu
   // text-transform: uppercase
@@ -62,6 +62,9 @@ h1, h2, h3
   li
     display: inline-block
     float: left
+
+  a
+    font-weight: bold
 
   &.main
     margin-right: 20px
@@ -89,7 +92,7 @@ h1, h2, h3
   text-align: right
 
   // background-color: rgba(255, 255, 255, 0.6)
-  @include main-shadow
+  // @include main-shadow
   background-color: white
 
   .cell
@@ -109,6 +112,8 @@ h1, h2, h3
       font-size: 18px
       padding-left: 16px
       color: $color_dark
+      @media screen and (max-width: 760px)
+        display: none
 
     &.social
       border: 1px solid $color_grey_light
@@ -127,6 +132,56 @@ h1, h2, h3
     a
       margin-right: 10px
 
+  .cell.menu.mobile-hidden
+    @media screen and (max-width: $break_medium)
+      display: none
+
+  .cell.menu.nav-dropdown
+    display: none
+    padding-left: 63px
+
+    .btn.dropdown-toggle
+      background: #BB3331
+      border: none
+      color: #fff
+      font-weight: bold
+      height: 57px
+      width: 100%
+      font-size: 18px
+
+      @media screen and (max-width: $break_xs)
+        font-size: 13px
+
+    @media screen and (max-width: $break_medium)
+      font-size: 18px
+      display: block
+
+    @media screen and (max-width: $break_xs)
+      display: block
+      font-size: 16px
+
+    .dropdown-chevron
+      padding-left: 6px
+      font-size: 16px
+
+      @media screen and (max-width: $break_xs)
+        font-size: 13px
+
+  .dropdown-menu
+    border-radius: 0px
+    width: 100%
+    margin-left: -1px
+
+    li
+      display: block
+      float: none
+      height: 28px
+      text-align: center
+      font-size: 18px
+      font-weight: bold
+      margin: 10px
+      a
+        font-weight: bold
 
 .big-what
   // border-bottom: 1px solid pink
@@ -135,6 +190,12 @@ h1, h2, h3
   padding-top: 80px
   height: 250px
 
+  @media screen and (max-width: $break_medium)
+    padding-top: 30px
+
+  @media screen and (max-width: $break_small)
+    padding-top: 22px
+
   .mission, .invite
     text-align: center
 
@@ -142,15 +203,25 @@ h1, h2, h3
     font-size: 36px
     font-weight: 700
     color: white
+
+    @media screen and (max-width: $break_small)
+      font-size: 29px
+
   .invite
     padding-top: 10px
     font-size: 18px
     color: $color_pink
 
+    @media screen and (max-width: $break_small)
+      font-size: 15px
+
   .buttons
     padding-top: 40px
     text-align: center
     display: block
+
+    @media screen and (max-width: $break_small)
+      padding-top: 7px
 
     a
       font-size: 14px
@@ -166,13 +237,27 @@ h1, h2, h3
       border-radius: $button_border_radius
       color: white
 
+      @media screen and (max-width: $break_small)
+        margin-top: 15px
+
+      @media screen and (max-width: $break_xs)
+        font-size: 10px
+        line-height: 30px
+        height: 30px
+        margin-top: 8px
+
       &.next
         background-color: white
         color: $color_dark
 
 .main .front-feed
-  // background-color: #333
-  margin-top: 90px
+  margin-top: 80px
+
+  @media screen and (max-width: $break_medium)
+    margin-top: 20px
+
+  @media screen and (max-width: $break_xs)
+    margin-top: 6px
 
   ul, li
     list-style: none
@@ -193,17 +278,15 @@ h1, h2, h3
     vertical-align: top
     background-color: white
 
-    // &:nth-child(3n)
-    //   background-color: red
+    @media screen and (max-width: $break_medium)
+      width: auto
 
     &.post
-      @include main-shadow
 
       &.with-bg-photo
         background-position: center
         background-repeat: no-repeat
         background-size: cover
-        text-shadow: 0px 1px 3px rgba(20, 20, 20, 0.90)
 
         color: white
         h1, h2, a
@@ -213,6 +296,11 @@ h1, h2, h3
         padding: 10px
         h1
           margin-top: 0px
+
+        @media screen and (max-width: $break_medium)
+          h1
+            font-size: 27px
+
         .about
           margin-top: 15px
           font-size: 70%

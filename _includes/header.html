@@ -6,19 +6,34 @@
         <strong>Slovenia</strong> Ruby User Group
       </div>
     </a>
-    <div class="cell menu main">
+    <div class="cell menu main mobile-hidden">
       <ul>
         <li><a href="/">NEWS</a></li>
         <li><a href="/stickers">STICKERS</a></li>
       </ul>
     </div><!-- /.menu -->
-    <div class="cell menu social">
+    <div class="cell menu social mobile-hidden">
       <ul>
         <li><a href="{{ site.social.meetup }}" title="Slovenia Ruby User Group on Meetup">Meetup</a></li>
         <li><a href="{{ site.social.twitter }}" title="Slovenia Ruby User Group on Twitter">Twitter</a></li>
         <li><a href="{{ site.social.facebook }}" title="Slovenia Ruby User Group on Facebook">FB</a></li>
         <li><a href="{{ site.github.repository_url }}" title="Slovenia Ruby User Group on GitHub">GitHub</a></li>
       </ul>
-    </div><!-- /.social -->
+    </div>
+    <div class="cell menu nav-dropdown">
+      <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+          Stickers, Meetups, and more! <span class="dropdown-chevron">&#9660;</span>
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="/stickers">Stickers</a></li>
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.meetup.com/RubySlovenia/">Meetup</a></li>
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.facebook.com/groups/RubySlovenia/">Facebook</a></li>
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="https://github.com/SloveniaRUG">GitHub</a></li>
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="https://twitter.com/RubySlovenia">@RubySlovenia</a></li>
+        </ul>
+      </div>
+    </div>
   </div><!-- /.wrap -->
 </div><!-- /.header -->
