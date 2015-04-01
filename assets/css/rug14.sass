@@ -85,7 +85,32 @@ h1, h2, h3
     text-transform: uppercase
     font-weight: 500
     letter-spacing: 0.02em
-    color: darken(#b3b3b3, 50%)
+    color: darken($color_grey, 50%)
+
+.menu.social
+  ul
+    padding-right: 6px
+    padding-bottom: 3px
+  li, a
+    height: 55px
+  li
+    padding-left: 5px
+    border: 1px solid #e5e5e5
+    border-right-style: none
+    &:last-child
+      border-right-style: solid
+  a
+    display: inline-block
+    width: 45px
+    padding-left: 4px
+    text-align: center
+    font-size: 150%
+    &:hover
+      color: $color_dark
+    &.icon-meetup
+      padding-left: 0
+      padding-right: 4px
+      font-size: 200%
 
 .header
   width: 100%
@@ -367,3 +392,5 @@ h1, h2, h3
     margin-right: 0
     position: relative
     top: -57px
+
+@import "fontello-embedded"
