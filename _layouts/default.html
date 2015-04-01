@@ -21,7 +21,8 @@
               {% endcapture %}
 
               {% if post.bg_photo %}
-              <li class="post with-bg-photo" style="background-image: url('{{ bg_photo }}')">
+              <li class="post with-bg-photo">
+                <div class="bg-photo" style="background-image: url('{{ bg_photo }}')"></div>
               {% else %}
               <li class="post">
               {% endif %}
