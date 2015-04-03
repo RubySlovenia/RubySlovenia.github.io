@@ -12,8 +12,9 @@ encoding:         utf-8
 
 social:
   meetup:         http://www.meetup.com/RubySlovenia/
-  twitter:        http://www.twitter.com/RubySlovenia/
+  twitter:        https://www.twitter.com/RubySlovenia/
   facebook:       https://www.facebook.com/groups/RubySlovenia/
+  github:         https://github.com/SloveniaRUG
   mailchimp:      http://eepurl.com/UHtR9
 
 authors:
