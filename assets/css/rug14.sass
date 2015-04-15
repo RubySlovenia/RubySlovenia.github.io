@@ -18,6 +18,7 @@ $button_border_radius: 30px
 $break_xs: 380px
 $break_small: 505px
 $break_medium: 640px
+$break_large: 860px
 
 @mixin border-box
   box-sizing: border-box
@@ -33,16 +34,6 @@ $break_medium: 640px
     @content
   &:-ms-input-placeholder
     @content
-
-@mixin bigwhat-button-ish
-  font-size: 13px
-  border: 1px solid transparentize(#fff, 0.6)
-  text-align: center
-  height: 45px
-  line-height: 45px
-  -webkit-border-radius: $button_border_radius
-  -moz-border-radius: $button_border_radius
-  border-radius: $button_border_radius
 
 html, body
   margin: 0px
@@ -74,6 +65,10 @@ h1, h2, h3
     padding-left: 5px
     padding-right: 5px
     padding-top: 2px
+    @media screen and (max-width: $break_medium)
+      padding:
+        left: 0
+        right: 0
 
 .menu
   // text-transform: uppercase
@@ -148,10 +143,15 @@ h1, h2, h3
   clear: both
   float: none
   text-align: right
+  background-color: #fff
 
-  // background-color: rgba(255, 255, 255, 0.6)
-  // @include main-shadow
-  background-color: white
+  @media screen and (max-height: 1100px)
+    position: absolute
+
+  @media screen and (max-width: $break_medium)
+    background-color: #bb3331
+    .cell.brand
+      display: none
 
   .cell
     display: inline-block
@@ -249,9 +249,14 @@ h1, h2, h3
 
   @media screen and (max-width: $break_medium)
     padding-top: 30px
+    background: #bb3331
 
   @media screen and (max-width: $break_small)
     padding-top: 22px
+
+  @media screen and (max-width: $break_xs)
+    height: auto
+    padding-bottom: 10px
 
   .mission, .invite
     text-align: center
@@ -261,8 +266,10 @@ h1, h2, h3
     font-weight: 400
     color: white
 
+    @media screen and (max-width: $break_large)
+      font-size: 4vw
     @media screen and (max-width: $break_small)
-      font-size: 29px
+      font-size: 22px
 
   .invite
     padding-top: 10px
@@ -278,37 +285,47 @@ h1, h2, h3
     display: block
 
     @media screen and (max-width: $break_small)
-      padding-top: 7px
+      padding-top: 18px
+      width: 250px
+      margin: auto
 
     a
-      +bigwhat-button-ish
-      display: inline-block
-      min-width: 225px
+      width: 225px
       text-transform: uppercase
 
-      @media screen and (max-width: $break_small)
-        margin-top: 15px
+.bigwhat-button-ish
+  font-size: 13px
+  border: 1px solid transparentize(#fff, 0.6)
+  text-align: center
+  height: 45px
+  line-height: 45px
+  -webkit-border-radius: $button_border_radius
+  -moz-border-radius: $button_border_radius
+  border-radius: $button_border_radius
+  @media screen and (max-width: $break_small)
+    height: 40px
+    line-height: 40px
+    font-size: 12px
 
-      @media screen and (max-width: $break_xs)
-        font-size: 10px
-        line-height: 30px
-        height: 30px
-        margin-top: 8px
+.attend-next-meetup-button
+  margin-right: 5px
+  color: $color_dark
+  font-weight: 600
+  background-color: transparentize(#fff, 0.2)
+  &:hover
+    background-color: #fff
 
-      &.attend-next-meetup-button
-        margin-right: 5px
-        color: $color_dark
-        font-weight: 600
-        background-color: transparentize(#fff, 0.2)
-        &:hover
-          background-color: #fff
+.attend-next-meetup-button,
+.newsletter-signup-form
+  display: inline-block
+  @media screen and (max-width: $break_small)
+    display: block
+    margin: 0 auto 10px
 
 .newsletter-signup-form
   position: relative
-  display: inline-block
 
 .newsletter-signup-email
-  +bigwhat-button-ish
   font-weight: 200
   min-width: 220px
   color: transparentize(#fff, 0.15)
@@ -326,7 +343,6 @@ h1, h2, h3
 
 .newsletter-signup-submit
   $button-width: 90px
-  +bigwhat-button-ish
   display: none
   box-sizing: content-box
   position: absolute
@@ -340,6 +356,8 @@ h1, h2, h3
   text-transform: uppercase
   &:hover
     background: white
+  @media screen and (max-width: $break_small)
+    display: none !important
 .form-editing
   .newsletter-signup-submit
     display: block
@@ -348,6 +366,10 @@ h1, h2, h3
   margin: 6px auto
   width: 455px
   font-weight: 400
+  text-align: center
+  @media screen and (max-width: $break_small)
+    width: auto
+    margin-top: 10px
   a
     font-size: 13px
     color: transparentize(#fff, 0.4)
@@ -357,6 +379,9 @@ h1, h2, h3
     text-align: center
     &:hover
       color: #fff
+    @media screen and (max-width: $break_small)
+      display: inline
+      width: auto
 
 .main .front-feed
   margin-top: 80px
@@ -385,12 +410,15 @@ h1, h2, h3
     line-height: 24px
     background-color: white
     min-height: 360px
-
     h1
       font-size: 24px
 
+    @media screen and (max-width: $break_large)
+      width: 47%
     @media screen and (max-width: $break_medium)
-      width: auto
+      margin: 0
+      width: 100%
+
 
 .with-bg-photo
   background-color: transparent
