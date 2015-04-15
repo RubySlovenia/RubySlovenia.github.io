@@ -64,7 +64,6 @@ h1, h2, h3
     position: relative
     padding-left: 5px
     padding-right: 5px
-    padding-top: 2px
     @media screen and (max-width: $break_medium)
       padding:
         left: 0
@@ -387,10 +386,7 @@ h1, h2, h3
   margin-top: 80px
 
   @media screen and (max-width: $break_medium)
-    margin-top: 20px
-
-  @media screen and (max-width: $break_xs)
-    margin-top: 6px
+    margin-top: 0
 
   ul, li
     list-style: none
@@ -482,13 +478,29 @@ h1, h2, h3
     height: 57px
     margin: 0 auto
     width: 100%
-    top: -15px
+    top: -13px
     position: relative
 
   .menu
     float: right
     margin-right: 0
     position: relative
-    top: -57px
+    top: -51px
+
+@media screen and (max-width: $break_large)
+  .footer
+    padding-bottom: 75px
+    .logo
+      top: 55px
+
+@media screen and (max-width: $break_medium)
+  .footer
+    padding-bottom: 0
+    .logo
+      top: 5px
+    .copyright,
+    .menu
+      display: none
+
 
 @import "fontello-embedded"
