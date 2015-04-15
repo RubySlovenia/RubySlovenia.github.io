@@ -4,7 +4,7 @@
     <div class="invite">Join us if you like Ruby and related technologies!</div>
     <div class="buttons">
       <a href="{{ site.social.meetup }}" class="attend-next-meetup-button">Attend next meetup</a>
-      <a href="{{ site.newsletter.subscribe }}" class="subscribe-to-newsletter-button">Subscribe to newsletter</a>
+      {% include newsletter_form.html %}
     </div><!-- /.butttons -->
     <div class="archive-links">
       <a href="{{ site.meetup.archive }}">Past meetups</a>

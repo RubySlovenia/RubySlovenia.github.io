@@ -24,6 +24,26 @@ $break_medium: 640px
   -moz-box-sizing: border-box
   -webkit-box-sizing: border-box
 
+@mixin input-placeholder
+  &::-webkit-input-placeholder
+    @content
+  &:-moz-placeholder
+    @content
+  &::-moz-placeholder
+    @content
+  &:-ms-input-placeholder
+    @content
+
+@mixin bigwhat-button-ish
+  font-size: 13px
+  border: 1px solid transparentize(#fff, 0.6)
+  text-align: center
+  height: 45px
+  line-height: 45px
+  -webkit-border-radius: $button_border_radius
+  -moz-border-radius: $button_border_radius
+  border-radius: $button_border_radius
+
 html, body
   margin: 0px
   padding: 0px
@@ -262,18 +282,10 @@ h1, h2, h3
       padding-top: 7px
 
     a
-      font-size: 13px
+      +bigwhat-button-ish
       display: inline-block
-      border: 1px solid transparentize(#fff, 0.6)
       min-width: 225px
-      text-align: center
-      height: 45px
-      line-height: 45px
       text-transform: uppercase
-      -webkit-border-radius: $button_border_radius
-      -moz-border-radius: $button_border_radius
-      border-radius: $button_border_radius
-      color: white
 
       @media screen and (max-width: $break_small)
         margin-top: 15px
@@ -286,33 +298,66 @@ h1, h2, h3
 
       &.attend-next-meetup-button
         margin-right: 5px
-        background-color: transparentize(#fff, 0.1)
         color: $color_dark
         font-weight: 600
+        background-color: transparentize(#fff, 0.2)
         &:hover
-          background-color: transparentize(#fff, 0.3)
+          background-color: #fff
 
-      &.subscribe-to-newsletter-button
-        font-weight: 200
-        color: transparentize(#fff, 0.15)
-        min-width: 220px
-        &:hover
-          background: transparentize(#fff, 0.8)
-          border-color: transparentize(#fff, 0.4)
+.newsletter-signup-form
+  position: relative
+  display: inline-block
+
+.newsletter-signup-email
+  +bigwhat-button-ish
+  font-weight: 200
+  min-width: 220px
+  color: transparentize(#fff, 0.15)
+  background-color: transparent
+  &:hover, &:focus
+    background: transparentize(#fff, 0.8)
+  &:hover
+    border-color: transparentize(#fff, 0.5)
+  &:focus
+    border-color: transparentize(#fff, 0.2)
+    outline: none
+  +input-placeholder
+    text-transform: uppercase
+    color: transparentize(#fff, 0.15)
+
+.newsletter-signup-submit
+  $button-width: 90px
+  +bigwhat-button-ish
+  display: none
+  box-sizing: content-box
+  position: absolute
+  top: 0
+  right: -$button-width - 10px
+  padding: 1px
+  width: $button-width
+  background: transparentize(#fff, 0.2)
+  font-weight: 600
+  cursor: pointer
+  text-transform: uppercase
+  &:hover
+    background: white
+.form-editing
+  .newsletter-signup-submit
+    display: block
 
 .archive-links
   margin: 6px auto
   width: 455px
-  font-weight: 500
+  font-weight: 400
   a
     font-size: 13px
-    color: transparentize(#fff, 0.5)
+    color: transparentize(#fff, 0.4)
     display: inline-block
     width: 215px
     padding: 0 5px
     text-align: center
     &:hover
-      color: transparentize(#fff, 0.1)
+      color: #fff
 
 .main .front-feed
   margin-top: 80px
