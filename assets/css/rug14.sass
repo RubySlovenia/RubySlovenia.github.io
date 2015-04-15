@@ -254,7 +254,7 @@ h1, h2, h3
       font-size: 15px
 
   .buttons
-    padding-top: 40px
+    padding-top: 49px
     text-align: center
     display: block
 
@@ -262,10 +262,10 @@ h1, h2, h3
       padding-top: 7px
 
     a
-      font-size: 14px
+      font-size: 13px
       display: inline-block
-      border: 1px solid #FFF
-      min-width: 220px
+      border: 1px solid transparentize(#fff, 0.6)
+      min-width: 225px
       text-align: center
       height: 45px
       line-height: 45px
@@ -284,9 +284,35 @@ h1, h2, h3
         height: 30px
         margin-top: 8px
 
-      &.next
-        background-color: white
+      &.attend-next-meetup-button
+        margin-right: 5px
+        background-color: transparentize(#fff, 0.1)
         color: $color_dark
+        font-weight: 600
+        &:hover
+          background-color: transparentize(#fff, 0.3)
+
+      &.subscribe-to-newsletter-button
+        font-weight: 200
+        color: transparentize(#fff, 0.15)
+        min-width: 220px
+        &:hover
+          background: transparentize(#fff, 0.8)
+          border-color: transparentize(#fff, 0.4)
+
+.archive-links
+  margin: 6px auto
+  width: 455px
+  font-weight: 500
+  a
+    font-size: 13px
+    color: transparentize(#fff, 0.5)
+    display: inline-block
+    width: 215px
+    padding: 0 5px
+    text-align: center
+    &:hover
+      color: transparentize(#fff, 0.1)
 
 .main .front-feed
   margin-top: 80px
