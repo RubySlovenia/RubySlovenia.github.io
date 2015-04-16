@@ -17,6 +17,8 @@ social:
   github:         https://github.com/SloveniaRUG
   slack:          http://slack.rug.si/
 
+email: info@rug.si
+
 newsletter:
   archive: http://us8.campaign-archive2.com/home/?u=fb83f064e1568f91a529d959f&id=4ac5bafc63
 
@@ -27,7 +29,7 @@ authors:
   mrfoto:
     name:           Miha Rekar
     url:            http://mr.si/
-    email:          info@rug.si
+    email:          miha.rekar@gmail.com
   otobrglez:
     name:           Oto Brglez
     url:            http://otobrglez.opalab.com/
