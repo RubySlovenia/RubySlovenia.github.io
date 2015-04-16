@@ -36,7 +36,8 @@ $break_large: 860px
     @content
 
 =content-box
-  max-width: 1200px
+  box-sizing: border-box
+  max-width: 1165px
 
 html, body
   margin: 0px
@@ -45,10 +46,9 @@ html, body
   height: 100%
 
 body
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
-  // font-size: 18px
   position: relative
   padding-top: 70px
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
 
 a
   text-decoration: none
@@ -90,45 +90,41 @@ h1, h2, h3
   a
     font-weight: bold
 
-  &.main
-    margin-right: 20px
-    a
-      padding-left: 10px
-      padding-right: 10px
-      color: $color_grey
-      &:hover, &:active
-        color: $color_red
-
-.menu.main
+.main-menu
+  margin-right: 20px
   a
+    padding-left: 10px
+    padding-right: 10px
     text-transform: uppercase
     font-weight: 500
     letter-spacing: 0.02em
     color: darken($color_grey, 50%)
+    &:hover, &:active
+      color: $color_red
 
-.menu.social
+.social-menu
   ul
     padding-right: 6px
     padding-bottom: 3px
+    border-right: 1px solid $color_grey_light
   li, a
     height: 55px
   li
     padding-left: 5px
-    border: 1px solid #e5e5e5
+    border: 1px solid $color_grey_light
     border-right-style: none
     &:last-child
       border-right-style: solid
   a
     display: inline-block
-    width: 45px
-    padding-left: 4px
+    width: 50px
     text-align: center
+    text-indent: -1px
     font-size: 150%
     &:hover
       color: $color_dark
     &.icon-meetup
-      padding-left: 0
-      padding-right: 4px
+      text-indent: -5px
       font-size: 200%
 
 .header
@@ -176,19 +172,6 @@ h1, h2, h3
       color: $color_dark
       @media screen and (max-width: 760px)
         display: none
-
-    &.social
-      border: 1px solid $color_grey_light
-      border-right: none
-      a
-        border-right: 1px solid $color_grey_light
-        display: block
-        width: 60px
-        text-align: center
-        overflow: hidden
-        background-position: center
-        background-repeat: no-repeat
-        text-indent: -500px
 
   .cell.menu.social
     a
@@ -246,14 +229,16 @@ h1, h2, h3
         font-weight: bold
 
 .big-what
-  background-image: url('/assets/img/big-what-bg.png')
-  background-position: top center
+  background:
+    image: url('/assets/img/big-what-bg.png')
+    position: top center
+    color: #bb3331
   padding-top: 80px
   height: 250px
 
   @media screen and (max-width: $break_medium)
     padding-top: 30px
-    background: #bb3331
+    background-image: none
 
   @media screen and (max-width: $break_small)
     padding-top: 22px
@@ -508,5 +493,51 @@ h1, h2, h3
   .menu
     ul
       float: right
+
+.page
+  .wrap
+
+  .big-what
+    padding-top: 60px
+    height: 220px
+    text-align: center
+    color: #fff
+    .page-title
+      margin-bottom: 13px
+      font:
+        size: 38px
+        weight: 300
+    .author-and-date
+      font:
+        size: 18px
+        weight: 200
+      &, a:link, a:visited
+        color: $color_pink
+
+  .main
+    padding-bottom: 30px
+    background: #f7f7f7
+    a:link
+      color: $color_red
+    a:visited
+      color: darken($color_red, 10%)
+    .wrap
+      top: -32px
+      background: #fff
+      padding: 87px 130px
+      font-size: 20px
+      line-height: 1.55em
+      @media screen and (max-width: $break_large)
+        padding: 40px 5%
+    .gallery
+      img
+        box-sizing: border-box
+        width: 49%
+        @media screen and (max-width: $break_small)
+          width: 100%
+
+.footnotes
+  font-size: 80%
+  color: lighten(#000, 50%)
 
 @import "fontello-embedded"

@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Stickers
+title: Slovenia Ruby User Group Stickers
 ---
-
-# Slovenia Ruby User Group Stickers
 
 [Tina Tavčar](http://www.tinatavcar.com/) designed this really awesome logo for our group that merges the two loves of our life: *Ruby* and *Slovenia*. And there is nothing more Slovenian than our [national symbol Triglav](http://en.wikipedia.org/wiki/Triglav#National_symbol). Of course you want to wear this with pride on all of your stuff, which is why we made **stickers**.
 
