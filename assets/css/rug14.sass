@@ -1,0 +1,560 @@
+---
+---
+
+//
+// ~~~   Slovenia Ruby User Group Theme 2014    ~~~
+// Design:
+//   * Jaka Šmid - https://twitter.com/JakaSmid
+// Code:
+//   * Oto Brglez - https://twitter.com/otobrglez
+//   * Miha Filej - https://twitter.com/mfilej
+//   * Matic Jurglič - https://twitter.com/matixmatix
+//   * Žiga Vidic - https://twitter.com/zigomir
+//
+// You? -> https://github.com/SloveniaRUG
+//
+
+$color_red:  #cc342d
+$color_grey: #b3b3b3
+$color_dark: #333
+$color_pink: #f19da2
+$color_grey_light: #e6e6e6
+$button_border_radius: 30px
+$break_xs: 380px
+$break_small: 505px
+$break_medium: 640px
+$break_large: 860px
+
+@mixin border-box
+  box-sizing: border-box
+  -moz-box-sizing: border-box
+  -webkit-box-sizing: border-box
+
+@mixin input-placeholder
+  &::-webkit-input-placeholder
+    @content
+  &:-moz-placeholder
+    @content
+  &::-moz-placeholder
+    @content
+  &:-ms-input-placeholder
+    @content
+
+=content-box
+  box-sizing: border-box
+  max-width: 1165px
+
+html, body
+  margin: 0px
+  padding: 0px
+  background-color: #f7f7f7
+  height: 100%
+
+body
+  position: relative
+  padding-top: 70px
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+
+a
+  text-decoration: none
+  color: $color_grey
+
+h1, h2, h3
+  font-weight: normal
+
+hr
+  display: block
+  margin: 2em 0
+  border: none
+  border-bottom: 1px solid $color_grey
+
+.wrap
+  +content-box
+
+.header, .main, .footer, .big-what
+  display: block
+  position: relative
+
+  .wrap
+    margin: 0px auto
+    position: relative
+    padding-left: 5px
+    padding-right: 5px
+    @media screen and (max-width: $break_medium)
+      padding:
+        left: 0
+        right: 0
+
+.menu
+  // text-transform: uppercase
+  font-size: 13px
+  // font-weight: 700
+  ul, li
+    list-style: none
+    margin: 0px
+    padding: 0px
+
+  li
+    display: inline-block
+    float: left
+
+  a
+    font-weight: bold
+
+.main-menu
+  margin-right: 20px
+  a
+    padding-left: 10px
+    padding-right: 10px
+    text-transform: uppercase
+    font-weight: 500
+    letter-spacing: 0.02em
+    color: darken($color_grey, 50%)
+    &:hover, &:active
+      color: $color_red
+
+.social-menu
+  ul
+    padding-right: 6px
+    padding-bottom: 3px
+    border-right: 1px solid $color_grey_light
+  li, a
+    height: 55px
+  li
+    padding-left: 5px
+    border: 1px solid $color_grey_light
+    border-right-style: none
+    &:last-child
+      border-right-style: solid
+  a
+    display: inline-block
+    width: 50px
+    text-align: center
+    text-indent: -1px
+    font-size: 150%
+    &:hover
+      color: $color_dark
+    &.icon-meetup
+      text-indent: -5px
+      font-size: 200%
+
+.header
+  width: 100%
+  z-index: 100
+  display: block
+  position: fixed
+  top: 0px
+  left: 0px
+  right: 0px
+  height: 60px
+  line-height: 55px
+  padding-top: 7px
+  padding-bottom: 7px
+  padding-left: 2px
+  clear: both
+  float: none
+  text-align: right
+  background-color: #fff
+
+  @media screen and (max-height: 1100px)
+    position: absolute
+
+  @media screen and (max-width: $break_medium)
+    background-color: #bb3331
+    .cell.brand
+      display: none
+
+  .cell
+    display: inline-block
+
+  .home
+
+    .logo
+      float: left
+      background: url("/assets/img/logo-white.svg") no-repeat #BB3331 4px
+      background-size: 50px
+      height: 57px
+      width: 57px
+
+    .cell.brand
+      float: left
+      font-size: 18px
+      padding-left: 16px
+      color: $color_dark
+      @media screen and (max-width: 760px)
+        display: none
+
+  .cell.menu.social
+    a
+      margin-right: 10px
+
+  .cell.menu.mobile-hidden
+    @media screen and (max-width: $break_medium)
+      display: none
+
+  .cell.menu.nav-dropdown
+    display: none
+    padding-left: 63px
+
+    .btn.dropdown-toggle
+      background: #BB3331
+      border: none
+      color: #fff
+      font-weight: bold
+      height: 57px
+      width: 100%
+      font-size: 18px
+
+      @media screen and (max-width: $break_xs)
+        font-size: 13px
+
+    @media screen and (max-width: $break_medium)
+      font-size: 18px
+      display: block
+
+    @media screen and (max-width: $break_xs)
+      display: block
+      font-size: 16px
+
+    .dropdown-chevron
+      padding-left: 6px
+      font-size: 16px
+
+      @media screen and (max-width: $break_xs)
+        font-size: 13px
+
+  .dropdown-menu
+    border-radius: 0px
+    width: 100%
+    margin-left: -1px
+
+    li
+      display: block
+      float: none
+      height: 28px
+      text-align: center
+      font-size: 18px
+      font-weight: bold
+      margin: 10px
+      a
+        font-weight: bold
+
+.big-what
+  background:
+    image: url('/assets/img/big-what-bg.png')
+    position: top center
+    color: #bb3331
+  padding-top: 80px
+  height: 250px
+
+  @media screen and (max-width: $break_medium)
+    padding-top: 30px
+    background-image: none
+
+  @media screen and (max-width: $break_small)
+    padding-top: 22px
+
+  @media screen and (max-width: $break_xs)
+    height: auto
+    padding-bottom: 10px
+
+  .mission, .invite
+    text-align: center
+
+  .mission
+    font-size: 36px
+    font-weight: 400
+    color: white
+
+    @media screen and (max-width: $break_large)
+      font-size: 4vw
+    @media screen and (max-width: $break_small)
+      font-size: 22px
+
+  .invite
+    padding-top: 10px
+    font-size: 18px
+    color: $color_pink
+
+    @media screen and (max-width: $break_small)
+      font-size: 15px
+
+  .buttons
+    padding-top: 49px
+    text-align: center
+    display: block
+
+    @media screen and (max-width: $break_small)
+      padding-top: 18px
+      width: 250px
+      margin: auto
+
+    a
+      width: 225px
+      text-transform: uppercase
+
+.bigwhat-button-ish
+  font-size: 13px
+  border: 1px solid transparentize(#fff, 0.6)
+  text-align: center
+  height: 45px
+  line-height: 45px
+  -webkit-border-radius: $button_border_radius
+  -moz-border-radius: $button_border_radius
+  border-radius: $button_border_radius
+  @media screen and (max-width: $break_small)
+    height: 40px
+    line-height: 40px
+    font-size: 12px
+
+.attend-next-meetup-button
+  margin-right: 5px
+  color: $color_dark
+  font-weight: 600
+  background-color: #fff
+  &:hover
+    background-color: transparentize(#fff, 0.2)
+
+.attend-next-meetup-button,
+.newsletter-signup-form
+  display: inline-block
+  @media screen and (max-width: $break_small)
+    display: block
+    margin: 0 auto 10px
+
+.newsletter-signup-form
+  position: relative
+
+.newsletter-signup-email
+  font-weight: 200
+  min-width: 220px
+  color: transparentize(#fff, 0.15)
+  background-color: transparent
+  &:hover, &:focus
+    background: transparentize(#fff, 0.8)
+  &:hover
+    border-color: transparentize(#fff, 0.5)
+  &:focus
+    border-color: transparentize(#fff, 0.2)
+    outline: none
+  +input-placeholder
+    text-transform: uppercase
+    color: transparentize(#fff, 0.15)
+
+.newsletter-signup-submit
+  $button-width: 90px
+  display: none
+  box-sizing: content-box
+  position: absolute
+  top: 0
+  right: -$button-width - 10px
+  padding: 1px
+  width: $button-width
+  background: transparentize(#fff, 0.2)
+  font-weight: 600
+  cursor: pointer
+  text-transform: uppercase
+  &:hover
+    background: white
+  @media screen and (max-width: $break_small)
+    display: none !important
+.form-editing
+  .newsletter-signup-submit
+    display: block
+
+.archive-links
+  margin: 6px auto
+  width: 455px
+  font-weight: 400
+  text-align: center
+  @media screen and (max-width: $break_small)
+    width: auto
+    margin-top: 10px
+  a
+    font-size: 13px
+    color: transparentize(#fff, 0.4)
+    display: inline-block
+    width: 215px
+    padding: 0 5px
+    text-align: center
+    &:hover
+      color: #fff
+    @media screen and (max-width: $break_small)
+      display: inline
+      width: auto
+
+.main .front-feed
+  margin-top: 80px
+
+  @media screen and (max-width: $break_medium)
+    margin-top: 0
+
+  ul, li
+    list-style: none
+    margin: 0px
+    padding: 0px
+  ul
+    margin-left: -2.5%
+    font-size: 0px
+  li
+    +border-box
+    position: relative
+    display: inline-block
+    width: 30.83%
+    margin: 0 0 2.5% 2.5%
+    font-size: 15px
+    font-weight: 300
+    line-height: 24px
+    background-color: white
+    min-height: 360px
+    h1
+      font-size: 24px
+
+    @media screen and (max-width: $break_large)
+      width: 47%
+    @media screen and (max-width: $break_medium)
+      margin: 0
+      width: 100%
+
+
+.with-bg-photo
+  background-color: transparent
+  color: darken(white, 5%)
+  a
+    color: darken(white, 2%)
+  .post-wrap
+    background: transparentize(#000, 0.4)
+    -webkit-box-shadow: inset 0px 0px 73px 39px transparentize(#000, 0.7)
+    -moz-box-shadow: inset 0px 0px 73px 39px transparentize(#000, 0.7)
+    box-shadow: inset 0px 0px 73px 39px transparentize(#000, 0.7)
+
+.bg-photo
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  opacity: 0.5
+  z-index: 0
+  background:
+    color: #666
+    position: center bottom
+    repeat: no-repeat
+    size: cover
+
+.post-wrap
+  +border-box
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  z-index: 1
+  padding: 32px
+  h1
+    margin-top: 0px
+  @media screen and (max-width: $break_medium)
+    h1
+      font-size: 27px
+  .summary
+    max-height: 220px
+    overflow: hidden
+  .about
+    position: absolute
+    bottom: 20px
+    font-size: 13px
+    color: darken(#fff, 30%)
+
+.footer
+  +content-box
+  display: table
+  margin: 0 auto
+  width: 100%
+  color: $color_grey
+  border-top: 1px solid $color_grey
+  .wrap
+    display: table-row
+    width: 100%
+
+  .copyright, .menu, .logo
+    display: table-cell
+    vertical-align: top
+    line-height: 35px
+    white-space: nowrap
+    overflow: hidden
+
+  .copyright, .menu
+    padding-top: 28px
+    width: 40%
+    @media screen and (max-width: $break_medium)
+      display: none
+
+  .copyright
+    padding-left: 5px
+    @media screen and (max-width: $break_large)
+      text-indent: -9999px
+
+  .logo
+    width: 20%
+    text-align: center
+    img
+      width: 75px
+      height: 75px
+
+  .menu
+    ul
+      float: right
+
+.page
+  .big-what
+    padding-top: 60px
+    height: 220px
+    text-align: center
+    color: #fff
+
+  .main
+    padding-bottom: 30px
+    background: #f7f7f7
+    a:link
+      color: $color_red
+    a:visited
+      color: darken($color_red, 10%)
+    .wrap
+      top: -32px
+      background: #fff
+      padding: 60px 130px
+      font-size: 20px
+      line-height: 1.55em
+      @media screen and (max-width: $break_large)
+        padding: 40px 5%
+    .gallery
+      img
+        box-sizing: border-box
+        width: 49%
+        @media screen and (max-width: $break_small)
+          width: 100%
+
+.page-title
+  margin-bottom: 13px
+  font:
+    size: 38px
+    weight: 400
+
+.author-and-date
+  font:
+    size: 18px
+    weight: 200
+  &, a:link, a:visited
+    color: $color_pink
+
+.footnotes
+  font-size: 80%
+  color: lighten(#000, 50%)
+
+.related
+  padding: 70px 0 30px
+.related-posts
+  font-size: 16px
+  line-height: 1.3
+
+@import "fontello-embedded"

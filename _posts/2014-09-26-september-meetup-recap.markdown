@@ -2,6 +2,7 @@
 layout: post
 title: September Meetup Recap
 author: otobrglez
+bg_photo: http://photos3.meetupstatic.com/photos/event/4/0/0/8/600_427576392.jpeg
 ---
 
 After long summer, we meet again in [Poligon Creative Center][pcc], we had three wonderful speakers, explaining useful things,...

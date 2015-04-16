@@ -1,8 +1,33 @@
----
-layout: default
----
+{% assign author = site.authors[page.author] %}
+<!DOCTYPE html>
+<html lang="en-us">
+  {% include head.html %}
+  {% include ga.html %}
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</div>
+  <body class="page">
+    {% include header.html %}
+    <div class="big-what">
+      <header class="wrap">
+        <h1 class="page-title">{{ page.title }}</h1>
+        {% if author %}
+          <span class="author-and-date">
+            <a href="{{ author.url }}" class="author" rel="author">{{ author.name }}</a>
+            <span class="date">
+              {% if page.date %}
+                on {{ page.date | date_to_string }}
+              {% endif %}
+            </span>
+          </span>
+        {% endif %}
+      </header>
+    </div>
+
+    <div class="main">
+      <div class="wrap">
+        {{ content }}
+      </div><!-- /.wrap -->
+    </div><!-- /.main -->
+
+    {% include footer.html %}
+  </body>
+</html>

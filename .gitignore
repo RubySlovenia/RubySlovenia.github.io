@@ -4,6 +4,7 @@ _site
 .ruby-version
 .ruby-gemset
 .powrc
+notes.txt
 
 # Numerous always-ignore extensions
 *.diff
@@ -16,6 +17,7 @@ _site
 *.zip
 *.vi
 *~
+.sass-cache
 
 # OS or Editor folders
 .DS_Store
