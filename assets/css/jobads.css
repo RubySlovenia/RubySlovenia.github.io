@@ -1,0 +1,8 @@
+div.jobad{
+  border: 4px solid #bb3331;
+  padding: 1em;
+}
+
+div.jobad dt {
+  font-weight: bold;
+}
