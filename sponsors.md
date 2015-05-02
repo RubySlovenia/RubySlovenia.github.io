@@ -1,108 +1,32 @@
 ---
 layout: page
-title: Our sponsors
+title: Sponsors
 ---
 
-###Thank you guys...
+## Perks for our members
 
-<table id="sponsors">
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/toptal.jpeg">
-    </td>
-    <td>
-      <a href="http://toptal.com">Toptal</a>
-      Drinks at our monthly meetups.
-    </td>
-  </tr>
+{:#sponsors}
+|[![InformIT](/assets/img/sponsors/informit.jpeg)](http://informit.com)|35% off books (use code **USERGROUP** at checkout)<br>45% off e-books (use code **IUGD45** at checkout)<br>100% off for reviews[^1]|
+|[![O'Reilly Media](/assets/img/sponsors/oreilly.jpeg)](http://oreilly.com)|40% off books (use code **OR112** at checkout)<br>50% off e-books (use code **DSUG** at checkout)<br>100% off for reviews[^1]|
 
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/poligon.jpeg">
-    </td>
-    <td>
-      <a href="http://www.poligon.si/en/" target="_blank">Poligon Creative Centre</a>
-      Providing us space for our meetups.
-    </td>
-  </tr>
+## Enabling our meetups
 
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/vzivo.jpeg">
-    </td>
-    <td>
-      <a href="http://www.vzivo.si" target="_blank">V živo</a>
-      Live streaming and recording of our monthly meetups
-    </td>
-  </tr>
+{:#sponsors}
+|[![Poligon Creative Centre](/assets/img/sponsors/poligon.jpeg)](http://www.poligon.si/en/)|Providing us with space for our meetups|
+|[![V živo](/assets/img/sponsors/vzivo.jpeg)](http://www.vzivo.si)|Live streaming and recording of our monthly meetups|
 
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/jetbrains.jpeg">
-    </td>
-    <td>
-      <a href="http://www.jetbrains.com" target="_blank">JetBrains</a>
-      1 RubyMine license per meetup
-    </td>
-  </tr>
+## Raffle gifts at our meetups
 
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/pluralsight.jpeg">
-    </td>
-    <td>
-      <a href="http://pluralsight.com" target="_blank">Pluralsight</a>
-      2 monthly subscriptions per meetup
-    </td>
-  </tr>
+{:#sponsors}
+|[![JetBrains](/assets/img/sponsors/jetbrains.jpeg)](http://www.jetbrains.com)|1 [RubyMine](https://www.jetbrains.com/ruby/) license per meetup worth **99€**|
+|[![Pluralsight](/assets/img/sponsors/pluralsight.jpeg)](http://pluralsight.com)|2 [monthly subscriptions](http://www.pluralsight.com/signup) per meetup worth **$29** each|
 
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/informit.jpeg">
-    </td>
-    <td>
-      <a href="http://informit.com" target="_blank">InformIT</a>
-      35% off books | 45% off e-books and video training
-    </td>
-  </tr>
+## Drinks at our meetups
 
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/oreilly.jpeg">
-    </td>
-    <td>
-      <a href="http://oreilly.com" target="_blank">O'Reilly Media</a>
-      40% off books | 50% off e-books
-    </td>
-  </tr>
+{:#sponsors}
+|[![Toptal](/assets/img/sponsors/toptal.jpeg)](http://toptal.com)|Toptal connects start-ups, businesses, and organizations to a growing network of the best custom software developers in the world|
+|[![D·Labs](/assets/img/sponsors/dlabs.jpeg)](http://dlabs.si)|D·Labs is  building tech teams tailored for all early-stagers|
+|[![Leadformance](/assets/img/sponsors/leadformance.jpeg)](http://leadformance.com)|Leadformance provides a solution for increasing visibility of your stores|
+|[![Codeable](/assets/img/sponsors/codeable.jpeg)](http://codeable.io)|Codeable is *the* place where you can find a reliable WordPress expert when you need one|
 
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/dlabs.jpeg">
-    </td>
-    <td>
-      <a href="http://dlabs.si" target="_blank">D·Labs</a>
-      Drinks at our monthly meetups.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/leadformance.jpeg">
-    </td>
-    <td>
-      <a href="http://leadformance.com" target="_blank">Leadformance</a>
-      Drinks at our monthly meetups.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="/assets/img/sponsors/codeable.jpeg">
-    </td>
-    <td>
-      <a href="http://codeable.io" target="_blank">Codeable</a>
-      Drinks at our monthly meetups.
-    </td>
-  </tr>
-</table>
+[^1]: [Contact us](mailto:{{ site.email }}) with the title you'd like to review
