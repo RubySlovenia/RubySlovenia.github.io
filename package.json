@@ -1,0 +1,16 @@
+{
+  "name": "RubySlovenia.github.io",
+  "description": "Out website",
+  "dependencies": {
+    "": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RubySlovenia/RubySlovenia.github.io.git"
+  },
+  "homepage": "http://www.rug.si/",
+  "devDependencies": {
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-svgmin": "^2.0.1"
+  }
+}

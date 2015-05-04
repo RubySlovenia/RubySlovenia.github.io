@@ -30,6 +30,7 @@ Thumbs.db
 .tmproj
 *.esproj
 nbproject
+node_modules
 *.sublime-project
 *.sublime-workspace
 .idea
