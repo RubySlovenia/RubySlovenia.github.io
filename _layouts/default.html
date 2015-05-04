@@ -9,40 +9,9 @@
 
     <div class="main">
       <div class="wrap">
-
-        <div class="front-feed">
-          <ul>
-            {% for post in site.posts %}
-              {% assign author = site.authors[post.author] %}
-              {% assign bg_photo = post.bg_photo %}
-
-              {% capture p_type %}
-                {% if post.title 'Recap' %}recap{% endif %}
-              {% endcapture %}
-
-              {% if post.bg_photo %}
-              <li class="post with-bg-photo">
-                <div class="bg-photo" style="background-image: url('{{ bg_photo }}')"></div>
-              {% else %}
-              <li class="post">
-              {% endif %}
-                <div class="post-wrap">
-                  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-                  <div class="summary">
-                    {{ post.content | strip_html | truncatewords: 50 }}
-
-                  </div>
-                  <div class="about">
-                    Written by <span class="author"><a href="{{ author.url }}">{{ author.name }}</a></span> on <span class="date">{{ post.date | date_to_string }}.</span>
-                  </div><!-- /.about -->
-                </div><!-- /.post-wrap -->
-              </li><!-- /.post -->
-            {% endfor %}
-          </ul>
-        </div><!-- /.front-feed -->
-
-      </div><!-- /.wrap -->
-    </div><!-- /.main -->
+        {{ content }}
+      </div>
+    </div>
 
     {% include footer.html %}
   </body>
