@@ -2,7 +2,7 @@
 layout: post
 title: May Meetup Recap
 author: otobrglez
-bg_photo: ./assets/img/posts/ziga.png
+bg_photo: ./assets/img/posts/2014-05-27-ziga.png
 ---
 
 Yesterdays monthly [meetup] was great! We started with [Don Goodman-Wilson][don]'s gentle introduction to [ScreenHero][screenhero] and their stack/services/architecture. Proceeded with talk from [Žiga Vidic][ziga] - [PsyTrance][psy], [Ember.js][emberjs] and…[Straight edge][sxe]. We finished with cold beers sponsored by [D·Labs][dlabs] and everything took place at [Poligon Creative Centre][poligon].
