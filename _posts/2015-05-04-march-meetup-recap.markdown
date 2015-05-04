@@ -5,7 +5,7 @@ author: otobrglez
 bg_photo: ./assets/img/posts/2015-03-2-bg.png
 ---
 
-Match RUG meetup was about micro services, and background processing libraries in Ruby. Meeting point of our amazing event was as usual - the [Poligon](http://www.poligon.si/).
+March RUG meetup was about micro services, and background processing libraries in Ruby. Meeting point of our amazing event was as usual - the [Poligon](http://www.poligon.si/).
 
 We started with [Rodoljub Petrović](http://rodpetrovic.com/) - Head of Software at [Turtl](http://www.turtl.co/) - **Auto scaling a micro service on Amazon Web Services.**
 
