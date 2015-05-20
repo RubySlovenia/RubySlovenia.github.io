@@ -9,6 +9,7 @@ You can donate at all of our [meetups](http://www.meetup.com/RubySlovenia/) in p
 
 :sparkling_heart: :heartbeat: :heartpulse: :cupid: :revolving_hearts: :purple_heart: :blue_heart: :yellow_heart: :green_heart: :heart: Thank you all! :heart: :green_heart: :yellow_heart: :blue_heart: :purple_heart: :revolving_hearts: :cupid: :heartpulse: :heartbeat: :sparkling_heart:
 
+{:.donations-via-stickers-table}
 Name|GitHub|#
 -|-|-:
 Blaž Triglav|@blaztriglav|2

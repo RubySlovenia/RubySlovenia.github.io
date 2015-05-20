@@ -40,6 +40,13 @@ $break_large: 860px
   &:-ms-input-placeholder
     @content
 
+=simple-table
+  th
+    background: #efefef
+  th, td
+    border: 1px solid #ccc
+    padding: 3px 6px
+
 =content-box
   box-sizing: border-box
   max-width: 1165px
@@ -70,11 +77,6 @@ hr
 
 table
   border-collapse: collapse
-th
-  background: #efefef
-th, td
-  border: 1px solid #ccc
-  padding: 3px 6px
 
 .wrap
   +content-box
@@ -592,5 +594,8 @@ a.pagination-item
     color: #666
   img
     width: 140px
+
+.donations-via-stickers-table
+  +simple-table
 
 @import "fontello-embedded"
