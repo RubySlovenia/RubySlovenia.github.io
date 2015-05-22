@@ -52,6 +52,7 @@ Dražen Perić|@peric|2
 David Krmpotič|@davidhq|15
 Matic Jurglič|@matixmatix|10
 Anonymous||5
+Robert Sedovšek|@sedovsek|9
 
 :sparkling_heart: :heartbeat: :heartpulse: :cupid: :revolving_hearts: :purple_heart: :blue_heart: :yellow_heart: :green_heart: :heart: Thank you all! :heart: :green_heart: :yellow_heart: :blue_heart: :purple_heart: :revolving_hearts: :cupid: :heartpulse: :heartbeat: :sparkling_heart:
 
