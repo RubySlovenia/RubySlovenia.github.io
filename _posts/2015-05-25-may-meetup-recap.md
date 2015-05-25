@@ -25,6 +25,8 @@ Last talk of the day was reserved for [Jan Haložan - @janhalozan](https://twitt
 
 <iframe style="width:100%" height="400" src="https://www.youtube.com/embed/v0xdsGgrE_w" frameborder="0" allowfullscreen></iframe>
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5JvV0XN8N2IIT6" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="width: 100%;" allowfullscreen> </iframe>
+
 ***
 
 Hope that you have learned something about Erlang and push notifications!
