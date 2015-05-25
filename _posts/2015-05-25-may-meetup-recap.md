@@ -17,6 +17,8 @@ After receiving our first dose of Erlang awesomeness we proceeded with more Erla
 
 <iframe style="width:100%" height="400" src="https://www.youtube.com/embed/qfJprZkqBGA" frameborder="0" allowfullscreen></iframe>
 
+<script async class="speakerdeck-embed" data-id="2c9f5ab570c34f87aeb3f6a04e88cbf2" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ***
 
 Last talk of the day was reserved for [Jan Haložan - @janhalozan](https://twitter.com/janhalozan), iOS developer from [Databox](http://databox.com). Talk: **In the hunt of 100% delivery rate with mobile push notifications.**
