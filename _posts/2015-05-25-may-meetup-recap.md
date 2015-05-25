@@ -13,7 +13,7 @@ First speaker was [Ino Murko - @ino_murko](https://twitter.com/ino_murko), he in
 
 ***
 
-After receiving our first dose of Erlang awesomeness we precoded with more Erlang! Next was [Miha Filej - @mfilej](https://twitter.com/mfilej) and [Elixir](http://elixir-lang.org/) with some [Phoenix Framework](http://www.phoenixframework.org/) touches. Talk: **Elixir for Rubyists**.
+After receiving our first dose of Erlang awesomeness we proceeded with more Erlang! Next was [Miha Filej - @mfilej](https://twitter.com/mfilej) and [Elixir](http://elixir-lang.org/) with some [Phoenix Framework](http://www.phoenixframework.org/) touches. Talk: **Elixir for Rubyists**.
 
 <iframe style="width:100%" height="400" src="https://www.youtube.com/embed/qfJprZkqBGA" frameborder="0" allowfullscreen></iframe>
 
