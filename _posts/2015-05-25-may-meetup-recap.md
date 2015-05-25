@@ -29,6 +29,4 @@ Hope that you have learned something about Erlang and push notifications!
 
 Now, go and enjoy the summer. :rowboat: :swimmer:
 
-P.s.: Thanks to our sponsors: [TopTal](http://www.toptal.com), [V ŽIVO.si](http://www.vzivo.si/) and [Poligon](http://www.poligon.si/) for helping us!
-
-- [Oto](https://twitter.com/otobrglez)
+P.s.: Thanks to our sponsors: [Toptal](http://www.toptal.com), [V ŽIVO.si](http://www.vzivo.si/) and [Poligon](http://www.poligon.si/) for helping us!
