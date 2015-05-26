@@ -11,6 +11,8 @@ First speaker was [Ino Murko - @ino_murko](https://twitter.com/ino_murko), he in
 
 <iframe style="width:100%" height="400" src="https://www.youtube.com/embed/T7mQOPVh-HA" frameborder="0" allowfullscreen></iframe>
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Ny8bC8LHdTThw" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="width: 100%;" allowfullscreen> </iframe>
+
 ***
 
 After receiving our first dose of Erlang awesomeness we proceeded with more Erlang! Next was [Miha Filej - @mfilej](https://twitter.com/mfilej) and [Elixir](http://elixir-lang.org/) with some [Phoenix Framework](http://www.phoenixframework.org/) touches. Talk: **Elixir for Rubyists**.
