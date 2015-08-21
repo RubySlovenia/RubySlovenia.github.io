@@ -1,4 +1,4 @@
-We love pull requests from everyone. Follow the thoughtbot [code of conduct](https://thoughtbot.com/open-source-code-of-conduct) while contributing.
+We love pull requests from everyone. Follow the Contributor Covenant [code of conduct](http://contributor-covenant.org/) while contributing.
 
 ## Development
 
