@@ -9,15 +9,15 @@ On the day before Halloween we had our [October meetup](http://www.meetup.com/Ru
 
 Jure Žove - iOS developer - explained difference between Swift new programming language from Apple , Ruby and Scala. Talk titled - Jumping into Apple Swift. <small>(English video)</small>
 
-<iframe style="width:100%" height="400" src="//www.youtube.com/embed/JGgIK1Q2Gf8" frameborder="0" allowfullscreen></iframe>
+<iframe height="400" src="//www.youtube.com/embed/JGgIK1Q2Gf8" frameborder="0" style="width:100%" allowfullscreen></iframe>
 
 Miha Mencin - Ruby developer from D.Labs - reported his experience with [ArrrrCamp 2014](http://2014.arrrrcamp.be/). <small>(Slovenian video)</small>
 
-<iframe style="width:100%" height="400" src="//www.youtube.com/embed/ohcCdul35vQ" frameborder="0" allowfullscreen></iframe>
+<iframe height="400" src="//www.youtube.com/embed/ohcCdul35vQ" frameborder="0" style="width:100%" allowfullscreen></iframe>
 
 Mitja Mavsar; gave gentle introduction to UX and then did session of UX Fixing. <small>(Slovenian video)</small>
 
-<iframe style="width:100%" height="400" src="//www.youtube.com/embed/ea6LbkOx4ao" frameborder="0" allowfullscreen></iframe>
+<iframe height="400" src="//www.youtube.com/embed/ea6LbkOx4ao" frameborder="0" style="width:100%" allowfullscreen></iframe>
 
 <small><i>Video: &copy; [@vzivo_si](http://www.vzivo.si/)</i></small>
 
