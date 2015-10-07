@@ -29,4 +29,4 @@ After official meetup ended we also opened floor for lightning talks. Few guys s
 
 Follow us on [Twitter](https://twitter.com/RubySlovenia) and don't forget to join us in December!
 
-P.s.: All talks ware live streamed and recorded by [@vzivo_si](http://www.vzivo.si/).
+P.S.: All talks ware live streamed and recorded by [@vzivo_si](http://www.vzivo.si/).

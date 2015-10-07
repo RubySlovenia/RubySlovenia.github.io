@@ -19,8 +19,7 @@ We started 2015 with JavaScript, Go and of course Ruby! Thanks to [@vzivo_si](ht
 
 <iframe style="width:100%" height="400" src="//www.youtube.com/embed/XwKyJDg3loM" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/1v0OTgoNEm32sdKUPHaFSjfOhClRKpyZ8y6tM9-h5Rxg/embed?start=false&loop=false&delayms=5000" frameborder="0" style="width:100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/1v0OTgoNEm32sdKUPHaFSjfOhClRKpyZ8y6tM9-h5Rxg/embed?start=false&loop=false&delayms=5000" frameborder="0" style="width:100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ***
 
@@ -32,7 +31,7 @@ We started 2015 with JavaScript, Go and of course Ruby! Thanks to [@vzivo_si](ht
 
 After official event we also had a lightning talk. This time with some free T-Shirts and promo material from [topdeejays.com](http://topdeejays.com).
 
-<iframe src="https://docs.google.com/presentation/d/11YIufLUowGrLPZWlD972Jx1SAsKzVYiMRWTiLY5Dk8E/embed?start=false&loop=false&delayms=5000" frameborder="0" style="width:100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/11YIufLUowGrLPZWlD972Jx1SAsKzVYiMRWTiLY5Dk8E/embed?start=false&loop=false&delayms=5000" frameborder="0" style="width:100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ***
 

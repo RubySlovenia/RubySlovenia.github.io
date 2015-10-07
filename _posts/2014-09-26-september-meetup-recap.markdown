@@ -11,7 +11,7 @@ Damjan Rems presented DRGCMS - a custom build Rails + Mongo CMS that powers [pod
 
 [Islam Mušić](https://twitter.com/imusic0609) talked about how he used [Spree](https://github.com/spree/spree) to create e-commerce site for [Slovenian Kickstarter success story ONDU](http://www.ondu.si/).
 
-<iframe src="http://www.slideshare.net/islammusic/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/G5XyZyS91cxeXE" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="width: 100%;" allowfullscreen> </iframe>
 
 We finished with [Klemen Nagode](https://twitter.com/knagode) and his "10 things I learned at Baruco conference".
 
@@ -26,12 +26,11 @@ We finished with [Klemen Nagode](https://twitter.com/knagode) and his "10 things
 
 <small><i>Foto: &copy; @otobrglez</i></small>
 
-<iframe src="http://new.livestream.com/accounts/564247/events/3393723/videos/63091451/player?autoPlay=false&height=360&mute=false&width=640" width="640" height="360" frameborder="0" scrolling="no" style="martgin: 0px auto;"></iframe>
+<iframe src="http://new.livestream.com/accounts/564247/events/3393723/videos/63091451/player?autoPlay=false&height=360&mute=false&width=640" height="400" frameborder="0" scrolling="no" style="width: 100%;"></iframe>
 
 <small><i>Video: &copy; @vzivo_si</i></small>
 
 Next time be sure to [join us][join-us]!
-
 
 [join-us]: http://www.meetup.com/RubySlovenia/
 [pcc]: http://www.poligon.si/
