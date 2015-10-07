@@ -38,6 +38,10 @@ authors:
     name:           Žiga Vidic
     url:            https://twitter.com/zigomir
     email:          zigomir@gmail.com
+  jurgen:
+    name:           Matic Jurglič
+    url:            http://codeandtechno.com
+    email:          matic@jurglic.si
 
 paginate:         9
 
