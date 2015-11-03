@@ -15,14 +15,10 @@ One of the pioneers of Slovenian Ruby ecosystem, [David Krmpotić](https://twitt
 
 ***
 
-Second presenter, [Ivan Nemytchenko](http://nemytchenko.ru/), had the urge to travel all the way from Serbia to tell us to stop being a Rails developer. At first we were shocked, then we agreed! His intriguing talk was about how a developer needs to think outside the “Rails way” box as the complexity of an application grows. He pointed out a few valuable design patterns and techniques, such as using Form Objects, Repository and DDD principles, and a couple of other things that we could use to replace some of Rails’s standard ways and conventions when trying to tame the beastly complexity of a heavy app. Also, make sure not to miss brilliant graphics on his slides.
-
-<iframe height="400" src="https://www.youtube.com/embed/UkssTjWpqxI" frameborder="0" style="width: 100%" allowfullscreen></iframe>
-
-<iframe height="400" src="//www.slideshare.net/slideshow/embed_code/key/4k5WrmRcpnfiQ5" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="width: 100%;" allowfullscreen> </iframe>
+Second presenter, [Ivan Nemytchenko](http://nemytchenko.ru/), had the urge to travel all the way from Serbia to tell us to stop being a Rails developer. At first we were shocked, then we agreed! His intriguing talk was about how a developer needs to think outside the “Rails way” box as the complexity of an application grows. He pointed out a few valuable design patterns and techniques, such as using Form Objects, Repository and DDD principles, and a couple of other things that we could use to replace some of Rails’s standard ways and conventions when trying to tame the beastly complexity of a heavy app. Also, make sure not to miss brilliant graphics [on his slides](https://www.slideshare.net/secret/4k5WrmRcpnfiQ5).
 
 ***
 
 See you next time!
 
-P.S.: Thanks to our sponsors: [Toptal](http://www.toptal.com), [V ŽIVO.si](http://www.vzivo.si/) and [Poligon](http://www.poligon.si/)
+P.S.: Thanks to our sponsors [Toptal](http://www.toptal.com), [V Živo](http://www.vzivo.si/) and [Poligon](http://www.poligon.si/).
