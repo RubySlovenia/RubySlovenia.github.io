@@ -11,7 +11,7 @@ Creative mastermind [Martin Artnik](https://twitter.com/artto), better known by 
 
 <iframe height="400" src="https://www.youtube.com/embed/_rN3WU_qI70" frameborder="0" style="width: 100%" allowfullscreen></iframe>
 
-<script async class="speakerdeck-embed" data-id="67e30101e32d4d079e74cd7ce6b033f9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="67e30101e32d4d079e74cd7ce6b033f9" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ***
 
