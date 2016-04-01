@@ -7,7 +7,7 @@ bg_photo:
 
 March brought us springtime, sunshine, and another Ruby meetup. 
 
-[Lenart Rudel](https://github.com/lenart) presented [Hanami](http://hanamirb.org), a fresh take on web development in Ruby. Hanami is an alternative MVC framework that focuses on simplicity, performance, explicitness over magic, object-oriented architecture and testability. He discussed the differences between Rails and Hanami, its benefits, the viability of using it in production, and some code examples.
+[Lenart Rudel](https://github.com/lenart) presented [Hanami](http://hanamirb.org), a fresh take on web development in Ruby. Hanami is an alternative web framework that focuses on simplicity, performance, explicitness over magic, object-oriented architecture and testability. He discussed the differences between Rails and Hanami, its benefits, the viability of using it in production, and some code examples.
 
 ...Hanami video..
 ...Slides..
