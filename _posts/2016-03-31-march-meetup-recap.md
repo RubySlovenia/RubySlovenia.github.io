@@ -12,7 +12,7 @@ March brought us springtime, sunshine, and another Ruby meetup.
 ...Hanami video..
 ...Slides..
 
-[Oto Brglez](http://otobrglez.opalab.com) gave a lightning talk on [InfluxDB](https://influxdata.com/), a time-series database. He demonstrated how to implement page view analytics with graphs over time.
+[Oto Brglez](http://otobrglez.opalab.com) gave a lightning talk on [InfluxDB](https://influxdata.com/), a time-series database. He demonstrated how to implement page view analytics with graphs over time. (See [Social metrics collector](https://github.com/otobrglez/socol) on GitHub)
 
 [Jan Berdajs](https://github.com/mrbrdo) presented [ngrok](https://ngrok.com), which allows you to expose your local development server to the internet. This is very useful for demoing your app or testing webhooks.
 
