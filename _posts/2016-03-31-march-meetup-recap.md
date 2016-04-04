@@ -22,9 +22,21 @@ Thanks everyone for coming! We'd also like to thank our sponsors [Toptal](http:/
 See you [next time](http://www.meetup.com/RubySlovenia/)! In the meantime, we can also chat on our [Slack](http://slack.rug.si/).
 
 <div class="gallery">
-  <img src="/assets/img/posts/2016-03-31-meetup-1.jpg" alt="Ruby meetup - March 2016">
-  <img src="/assets/img/posts/2016-03-31-meetup-2.jpg" alt="Ruby meetup - March 2016">
-  <img src="/assets/img/posts/2016-03-31-meetup-3.jpg" alt="Ruby meetup - March 2016">
-  <img src="/assets/img/posts/2016-03-31-meetup-4.jpg" alt="Ruby meetup - March 2016">
+  <a href="/assets/img/posts/2016-03-31-meetup-1.jpg" target="_blank">
+    <img src="/assets/img/posts/2016-03-31-meetup-1.jpg" alt="Ruby meetup - March 2016">
+  </a>
+  
+  <a href="/assets/img/posts/2016-03-31-meetup-2.jpg" target="_blank">
+    <img src="/assets/img/posts/2016-03-31-meetup-2.jpg" alt="Ruby meetup - March 2016">
+  </a>
+  
+  <a href="/assets/img/posts/2016-03-31-meetup-3.jpg" target="_blank">
+    <img src="/assets/img/posts/2016-03-31-meetup-3.jpg" alt="Ruby meetup - March 2016">
+  </a>
+  
+  <a href="/assets/img/posts/2016-03-31-meetup-4.jpg" target="_blank">
+    <img src="/assets/img/posts/2016-03-31-meetup-4.jpg" alt="Ruby meetup - March 2016">
+  </a>
+
   <small>Photos by Miha Rekar</small>
 </div>
