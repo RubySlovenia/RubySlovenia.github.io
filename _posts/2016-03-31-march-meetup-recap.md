@@ -9,8 +9,7 @@ March brought us springtime, sunshine, and another Ruby meetup.
 
 [Lenart Rudel](https://github.com/lenart) presented [Hanami](http://hanamirb.org), a fresh take on web development in Ruby. Hanami is an alternative web framework that focuses on simplicity, performance, explicitness over magic, object-oriented architecture and testability. He discussed the differences between Rails and Hanami, its benefits, the viability of using it in production, and some code examples.
 
-...Hanami video..
-...Slides..
+<iframe height="400" src="https://docs.google.com/a/mediately.co/presentation/d/1gRWUdE_BzU-zcqlWVrNyP9zsksutJbq0EQqFJLWm3vE/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" style="width:100%" allowfullscree=""></iframe>
 
 [Oto Brglez](http://otobrglez.opalab.com) gave a lightning talk on [InfluxDB](https://influxdata.com/), a time-series database. He demonstrated how to implement page view analytics with graphs over time. (See [Social metrics collector](https://github.com/otobrglez/socol) on GitHub)
 
