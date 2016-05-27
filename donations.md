@@ -14,8 +14,8 @@ Name|GitHub|#
 -|-|-:
 Blaž Triglav|@blaztriglav|2
 Matic Jurglič|@matixmatix|2
-Martin Artnik|@artoartnik|1
-Miha Mencin|@radiokills|10
+Martin Artnik|@artoartnik|4
+Miha Mencin|@radiokills|20
 Damjan Rems||2
 Darko Bodnaruk|@darkobodnaruk|1
 Aljaž Fajmut|@introvert|2
