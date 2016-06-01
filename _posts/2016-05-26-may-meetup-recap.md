@@ -26,3 +26,15 @@ Tradition dictates us to have beer after the talks. We mostly obey.
 Thanks everyone for coming! We'd also like to thank our sponsors [Toptal](http://www.toptal.com), [Poligon](http://www.poligon.si) and [V živo](http://vzivo.si).
 
 See you [next time](http://www.meetup.com/RubySlovenia/)! In the meantime, we can also chat on our [Slack](http://slack.rug.si/).
+
+<div class="gallery">
+  <a href="/assets/img/posts/2016-05-26-meetup-1.jpg" target="_blank">
+    <img src="/assets/img/posts/2016-05-26-meetup-1.jpg" alt="Ruby meetup - May 2016">
+  </a>
+
+  <a href="/assets/img/posts/2016-05-26-meetup-2.jpg" target="_blank">
+    <img src="/assets/img/posts/2016-05-26-meetup-2.jpg" alt="Ruby meetup - May 2016">
+  </a>
+
+  <small>Photos by Miha Rekar</small>
+</div>
