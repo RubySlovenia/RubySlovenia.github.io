@@ -2,7 +2,7 @@
 layout: post
 title: May Meetup Recap
 author: Marko
-bg_photo: /assets/img/posts/2016-01-28_meetup_2.jpg
+bg_photo: /assets/img/posts/2016-05-26-meetup-1.jpg
 ---
 
 After taking a break in the month of April, we have gathered yet again on last Thursday of the month to talk code. There were three great talks on various topics.
