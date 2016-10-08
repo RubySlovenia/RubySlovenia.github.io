@@ -1,11 +1,9 @@
 ---
 layout: post
-title: October Meetup Recap
-author: dare
+title: September Meetup Recap
+author: darkobodnaruk
 bg_photo: /assets/img/posts/2016-09-29-meetup.jpg
 ---
-
-September Meetup Recap
 
 So after a long summer break, we gathered again in Poligon to talk about Ruby, programming and life in general.
 
@@ -17,7 +15,7 @@ He first cleared up the difference between concurrency and parallelism and remin
 
 He then recapped a newish proposal called Guilds of organizing code to handle concurrency easier. It's supposed to be included into Ruby 3 in 2020, so... whatever. More interestingly, he shared some experience with the gem 'concurrent-ruby' which seems to be a dependence-less alternative to 'celluloid' and he found it a better use-case for Rails 5.
 
-After the main talk, there was a shorter talk in which XY presented an open source project which his company (XLab?) is involved with. It has to do with maintaining a cloud infrastructure over different providers. Our Ruby community being more of a freelancer crowd, we might not have been the perfect audience but who knows when one might need a 200-server cloud, right?
+After the main talk, there was a shorter talk in which Matija Cankar presented an open source project which his company [XLAB](http://www.xlab.si/) is involved with. It has to do with maintaining a cloud infrastructure over different providers. Our Ruby community being more of a freelancer crowd, we might not have been the perfect audience but who knows when one might need a 200-server cloud, right?
 
 Beers were had, experiences exchanged, new projects thought up (maybe). Good fun, all in all.  
 
