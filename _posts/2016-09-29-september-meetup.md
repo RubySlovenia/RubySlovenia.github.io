@@ -27,6 +27,5 @@ As always make sure you bookmark our meetup page so you won’t miss our [next e
   <a href="/assets/img/posts/2016-09-29-meetup.jpg" target="_blank">
     <img src="/assets/img/posts/2016-09-29-meetup.jpg" alt="Ruby meetup - May 2016">
   </a>
-
-  <small>Photos by Miha Rekar</small>
 </div>
+<small>Photo by Miha Rekar</small>
