@@ -62,6 +62,9 @@ authors:
     name:           Darko Bodnaruk
     url:            https://twitter.com/darkobodnaruk
     email:          darko.bodnaruk@gmail.com
+  szlend:
+    name:           Simon Žlender
+    url:            https://github.com/szlend
 
 paginate:         9
 
