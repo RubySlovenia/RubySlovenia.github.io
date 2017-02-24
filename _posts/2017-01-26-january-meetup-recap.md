@@ -11,7 +11,7 @@ The crowd was booming, beers were in code blistered hands (thanks to [Toptal](ht
 
 [Kristijan Sedlak](https://twitter.com/kristijansedlak), CTO of Doctrina was the only presenter this time around. He introduced us to his current employer [Doctrina](https://si.doctrina.biz/) and their stack. They use [NodeJS](https://nodejs.org/en/) / [Vue.js](https://vuejs.org/) and [GraphQL](http://graphql.org/) technologies with great ease, and Kristijan made marvelous sketches of how things work ([slides](https://drive.google.com/file/d/0Bxwzk7hUuMlXMVVHVkxWdkpzaE0/view)).
 
-<iframe src="https://drive.google.com/file/d/0Bxwzk7hUuMlXMVVHVkxWdkpzaE0/preview" height="480" frameborder="0" style="width: 100%" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/0Bxwzk7hUuMlXMVVHVkxWdkpzaE0/preview" height="600" frameborder="0" style="width: 100%" allowfullscreen></iframe>
 
 He explained, that the transfer to these fresh out of the owen technologies was hassle free and made for the future stability, where scalability is thought of, and everything works just  fine. He also stated, that Rails is still a good way to go. We agreed strongly.
 
