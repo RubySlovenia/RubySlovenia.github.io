@@ -7,9 +7,7 @@ bg_photo: /assets/img/posts/2017-01-01-meetup-2.jpeg
 
 Hi!
 
-It was somehow delegated to me to make a recap of this meetup for people who couldn't attend? Here it is :)
-
-In this meetup [Domen Kožar][Domen] explained that [ELM] an functional language which compiles to JavasSript. ELM transcompiler guarantees that we won't have any runtime JavaScript errors.
+In this meetup [Domen Kožar][Domen] explained that [ELM] is a functional language which compiles to JavasSript. ELM transcompiler guarantees that we won't have any run time JavaScript errors.
 
 [Domen] went through this guide [guide.elm-lang.org](https://guide.elm-lang.org/), explained what certain parts of this language mean and answered bunch of questions.
 
@@ -23,7 +21,7 @@ At the end of meetup he refered us the following next steps / reading material
 - [ELM Material Design Lite CSS/JS library](https://github.com/debois/elm-mdl)
 - [Packages for ELM](http://package.elm-lang.org/)
 
-An another choice for generating JavaScript code is [PureScript], but it's more suitable for people who are familiar with functional languages like [Haskell].
+Another choice for generating JavaScript code is [PureScript], but it's more suitable for people who are familiar with functional languages like [Haskell].
 
 After Domen; stage was set for [Arto][artto] and his lovely introduction to recent changes to Ruby 2.4. With cats and nice font!
 
