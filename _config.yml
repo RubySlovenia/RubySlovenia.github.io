@@ -65,6 +65,10 @@ authors:
   szlend:
     name:           Simon Žlender
     url:            https://github.com/szlend
+  zprima:
+    name:           Primož Žnidar
+    url:            https://github.com/zprima
+    email:          dude@poviolabs.com
 
 paginate:         9
 
