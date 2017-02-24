@@ -9,7 +9,7 @@ Hi!
 
 It was somehow delegated to me to make a recap of this meetup for people who couldn't attend? Here it is :)
 
-In this meetup [Domen Kožar][Domen] explained that [ELM] an functional language which compiles to JavasSript. ELM transcompiler guarantees that we won't have any runtime JavaScript errors.
+In this meetup [Domen Kožar][Domen] explained that [ELM] an functional language which compiles to JavasScript. ELM transcompiler guarantees that we won't have any runtime JavaScript errors.
 
 [Domen] went through this guide [guide.elm-lang.org](https://guide.elm-lang.org/), explained what certain parts of this language mean and answered bunch of questions.
 
