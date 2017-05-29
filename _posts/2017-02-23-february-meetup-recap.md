@@ -23,7 +23,7 @@ At the end of meetup he refered us the following next steps / reading material
 - [ELM Material Design Lite CSS/JS library](https://github.com/debois/elm-mdl)
 - [Packages for ELM](http://package.elm-lang.org/)
 
-An another choice for generating JavaScript code is [PureScript], but it's more suitable for people who are familiar with functional languages like [Haskell].
+Another choice for generating JavaScript code is [PureScript], but it's more suitable for people who are familiar with functional languages like [Haskell].
 
 After Domen; stage was set for [Arto][artto] and his lovely introduction to recent changes to Ruby 2.4. With cats and nice font!
 
