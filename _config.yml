@@ -72,7 +72,9 @@ authors:
     name:           Primož Žnidar
     url:            https://github.com/zprima
     email:          dude@poviolabs.com
-
+  xpepermint:
+    name:           Kristijan Sedlak
+    url:            https://github.com/xpepermint
 
 paginate:         9
 

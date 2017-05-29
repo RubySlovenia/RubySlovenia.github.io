@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Up your freelancing game and get dirty with Vue.js
-author: xpepermint (@kristijansedlak)
+author: xpepermint
 bg_photo: /assets/img/posts/2017-05-25-meetup-cover.png
 ---
 
