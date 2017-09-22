@@ -2,7 +2,7 @@
 layout: post
 title: September Meetup Recap
 author: jurgen
-bg_photo: ./assets/img/posts/2015-09-24-meetup.png
+bg_photo: /assets/img/posts/2015-09-24-meetup.png
 ---
 
 It's been awhile since our last meetup and after a busy summer we gathered again to meet and greet our old and new Ruby friends. :tada:

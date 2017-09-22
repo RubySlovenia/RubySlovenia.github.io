@@ -2,7 +2,7 @@
 layout: post
 title: November Meetup Recap
 author: jurgen
-bg_photo: ./assets/img/posts/2015-11-27-meetup.png
+bg_photo: /assets/img/posts/2015-11-27-meetup.png
 ---
 
 Another month, another Ruby meetup, and another fun evening for spending precious time with Ruby friends. This time we found out how to enforce The Law into Ruby codebase and the basics of turbo-reactive programming techniques.

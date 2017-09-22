@@ -2,7 +2,7 @@
 layout: post
 title: February Meetup Recap
 author: lenart
-bg_photo: ./assets/img/posts/2016-02-25_meetup.jpg
+bg_photo: /assets/img/posts/2016-02-25_meetup.jpg
 ---
 
 February's meetup was slightly different than usual. There was a single presentation by [Darko Bodnaruk](https://twitter.com/darkobodnaruk), CTO at [Mediately](https://mediately.co/). He talked about React Native - a hot topic which attracted folks from outside the Ruby developers group. It was a great opportunity to say "Hi!" to friends working with other languages than Ruby.

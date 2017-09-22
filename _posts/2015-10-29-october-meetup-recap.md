@@ -2,7 +2,7 @@
 layout: post
 title: October Meetup Recap
 author: jurgen
-bg_photo: ./assets/img/posts/2015-10-29-meetup.png
+bg_photo: /assets/img/posts/2015-10-29-meetup.png
 ---
 
 On Thursday, October 29, another of our monthly Ruby gatherings took place at [Poligon](http://www.poligon.si/). Yet again we were lucky to get a chance to listen to two truly great talks. If hanging out with Ruby friends isn’t one of the finer things in life, then I don’t know what is.
