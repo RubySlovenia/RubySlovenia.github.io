@@ -75,6 +75,10 @@ authors:
   xpepermint:
     name:           Kristijan Sedlak
     url:            https://github.com/xpepermint
+  mfilej:
+    name:           Miha Filej
+    url:            http://miha.filej.net
+    email:          miha@filej.net
 
 paginate:         9
 
