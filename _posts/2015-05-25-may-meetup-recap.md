@@ -2,7 +2,7 @@
 layout: post
 title: May Meetup Recap
 author: otobrglez
-bg_photo: ./assets/img/posts/2015-05-25-bg.png
+bg_photo: /assets/img/posts/2015-05-25-bg.png
 ---
 
 Our last meetup before summer break :sunglasses::sunny: was all about [Erlang](http://www.erlang.org/), [Elixir](http://elixir-lang.org/) and reliability.

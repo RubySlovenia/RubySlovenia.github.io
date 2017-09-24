@@ -2,7 +2,7 @@
 layout: post
 title: January Meetup Recap
 author: knagode
-bg_photo: ./assets/img/posts/2014-11-04-bg.png
+bg_photo: /assets/img/posts/2014-11-04-bg.png
 ---
 
 2016 will be an outstanding year so we started it with some awesome topics. [Jan "Brdo" Berdajs](https://github.com/mrbrdo), CTO at [RankTrackr](http://ranktrackr.net/) presented some cool new features in Rails 5 which is coming out this year. Yay!

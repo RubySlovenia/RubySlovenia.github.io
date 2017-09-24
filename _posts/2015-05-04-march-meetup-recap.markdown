@@ -2,7 +2,7 @@
 layout: post
 title: March Meetup Recap
 author: otobrglez
-bg_photo: ./assets/img/posts/2015-03-2-bg.png
+bg_photo: /assets/img/posts/2015-03-2-bg.png
 ---
 
 March RUG meetup was about micro services, and background processing libraries in Ruby. Meeting point of our amazing event was as usual - the [Poligon](http://www.poligon.si/).

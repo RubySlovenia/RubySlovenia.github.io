@@ -2,7 +2,7 @@
 layout: post
 title: October Meetup Recap
 author: otobrglez
-bg_photo: ./assets/img/posts/2014-11-04-bg.png
+bg_photo: /assets/img/posts/2014-11-04-bg.png
 ---
 
 On the day before Halloween we had our [October meetup](http://www.meetup.com/RubySlovenia/events/209625822/); this time it was about Swift, UX and Belgian beer.
