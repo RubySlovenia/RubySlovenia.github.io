@@ -15,7 +15,7 @@ The [first one](https://docs.google.com/presentation/d/1LVSgfWiceIqAMiC0qTpaxc2s
 
 Second talk was delivered by [Roman Orač](https://github.com/romanorac). The main topic was about machine learning, and how they're applying it at [1Tap Receipts](http://1tapreceipts.com/) to categorize photographs of receipts. Some real next-level stuff was revealed here, followed by an intensive Q&A session, which confirmed the interest for machine learning being at an all time high.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/bdJXYour2AqiF"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no" height="400" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%; width: 100%;" allowfullscreen> </iframe> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bdJXYour2AqiF"  frameborder="0" marginwidth="0" marginheight="0" scrolling="no" height="400" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%; width: 100%;" allowfullscreen> </iframe>
 
 <iframe height="400" src="https://www.youtube.com/embed/zKnHXR_pnRA" frameborder="0" allowfullscreen style="width:100%"></iframe>
 
