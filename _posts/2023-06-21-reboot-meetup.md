@@ -19,6 +19,21 @@ In addition to the main talks, [Sally Roth] shared valuable strategies on how to
 
 The attendees expressed their gratitude to [Krištof Črnivec](https://si.linkedin.com/in/kri%C5%A1tof-%C4%8Drnivec-582a60150), the driving force behind the revival of the Ruby meetup, and to [SciNote](https://www.scinote.net/) for their sponsorship.
 
+<div class="gallery">
+  <a href="/assets/img/posts/2023-06-21-meetup-jarvis.jpg" target="_blank" >
+    <img src="/assets/img/posts/2023-06-21-meetup-jarvis.jpg" alt="John Jarvis: Background Job Processing at Scale with Sidekiq">
+  </a>
+  <a href="/assets/img/posts/2023-06-21-meetup-artnik.jpg" target="_blank">
+    <img src="/assets/img/posts/2023-06-21-meetup-artnik.jpg" alt="Martin Artnik: What's New with Ruby 3">
+  </a>
+  <a href="/assets/img/posts/2023-06-21-meetup-roth.jpg" target="_blank">
+    <img src="/assets/img/posts/2023-06-21-meetup-roth.jpg" alt="Sally Roth: Efficient secrets removal">
+  </a>
+  <a href="/assets/img/posts/2023-06-21-meetup-rudel.jpg" target="_blank">
+    <img src="/assets/img/posts/2023-06-21-meetup-rudel.jpg" alt="Lenard Rudel: RubyDay 2023 Verona recap">
+  </a>
+</div>
+
 [John Jarvis]: https://si.linkedin.com/in/john-jarvis-287a246
 [Martin Artnik]: https://si.linkedin.com/in/martin-artnik-6826485b
 [Sally Roth]: https://sallyroth.dev/
