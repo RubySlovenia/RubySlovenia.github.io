@@ -8,11 +8,6 @@ title: Home
     {% for post in paginator.posts %}
       {% assign author = site.authors[post.author] %}
       {% assign bg_photo = post.bg_photo %}
-
-      {% capture p_type %}
-        {% if post.title 'Recap' %}recap{% endif %}
-      {% endcapture %}
-
       {% if post.bg_photo %}
       <li class="post with-bg-photo">
         <div class="bg-photo" style="background-image: url('{{ bg_photo }}')"></div>

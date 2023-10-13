@@ -1,21 +1,21 @@
 # Dependencies
-markdown:         kramdown
+markdown: kramdown
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Slovenia RUG
-description:      Slovenia Ruby User Group
-url:              http://www.rug.si
-encoding:         utf-8
+title: Slovenia RUG
+description: Slovenia Ruby User Group
+url: http://www.rug.si
+encoding: utf-8
 
 social:
-  meetup:         http://www.meetup.com/RubySlovenia/
-  twitter:        https://www.twitter.com/RubySlovenia/
-  facebook:       https://www.facebook.com/groups/RubySlovenia/
-  github:         https://github.com/RubySlovenia
-  slack:          http://slack.rug.si/
+  meetup: http://www.meetup.com/RubySlovenia/
+  twitter: https://www.twitter.com/RubySlovenia/
+  facebook: https://www.facebook.com/groups/RubySlovenia/
+  github: https://github.com/RubySlovenia
+  slack: http://slack.rug.si/
 
 email: info@rug.si
 
@@ -27,76 +27,76 @@ meetup:
 
 authors:
   mrfoto:
-    name:           Miha Rekar
-    url:            http://mr.si/
-    email:          miha.rekar@gmail.com
+    name: Miha Rekar
+    url: http://mr.si/
+    email: miha.rekar@gmail.com
   otobrglez:
-    name:           Oto Brglez
-    url:            http://otobrglez.opalab.com/
-    email:          otobrglez@gmail.com
+    name: Oto Brglez
+    url: http://otobrglez.opalab.com/
+    email: otobrglez@gmail.com
   zigomir:
-    name:           Žiga Vidic
-    url:            https://twitter.com/zigomir
-    email:          zigomir@gmail.com
+    name: Žiga Vidic
+    url: https://twitter.com/zigomir
+    email: zigomir@gmail.com
   jurgen:
-    name:           Matic Jurglič
-    url:            http://codeandtechno.com
-    email:          matic@jurglic.si
+    name: Matic Jurglič
+    url: http://codeandtechno.com
+    email: matic@jurglic.si
   knagode:
-    name:           Klemen Nagode
-    url:            http://www.klemen.info
-    email:          klemen.nagode@gmail.com
+    name: Klemen Nagode
+    url: http://www.klemen.info
+    email: klemen.nagode@gmail.com
   lenart:
-    name:           Lenart Rudel
-    url:            http://twitter.com/lenart
-    email:          lenart.rudel@gmail.com
+    name: Lenart Rudel
+    url: http://twitter.com/lenart
+    email: lenart.rudel@gmail.com
   danes:
-    name:           Dane Šoba
-    url:            https://si.linkedin.com/in/dane-šoba-9a70073
-    email:          dane.soba@gmail.com
+    name: Dane Šoba
+    url: https://si.linkedin.com/in/dane-šoba-9a70073
+    email: dane.soba@gmail.com
   antonpot:
-    name:           Marko Potočnik
-    url:            https://twitter.com/mapotocnik
-    email:          markoapotocnik@gmail.com
+    name: Marko Potočnik
+    url: https://twitter.com/mapotocnik
+    email: markoapotocnik@gmail.com
   darkobodnaruk:
-    name:           Darko Bodnaruk
-    url:            https://twitter.com/darkobodnaruk
-    email:          darko.bodnaruk@gmail.com
+    name: Darko Bodnaruk
+    url: https://twitter.com/darkobodnaruk
+    email: darko.bodnaruk@gmail.com
   predkambrij:
-    name:           Alojzij Blatnik
-    url:            https://github.com/predkambrij
+    name: Alojzij Blatnik
+    url: https://github.com/predkambrij
   szlend:
-    name:           Simon Žlender
-    url:            https://github.com/szlend
+    name: Simon Žlender
+    url: https://github.com/szlend
   zprima:
-    name:           Primož Žnidar
-    url:            https://github.com/zprima
-    email:          dude@poviolabs.com
+    name: Primož Žnidar
+    url: https://github.com/zprima
+    email: dude@poviolabs.com
   xpepermint:
-    name:           Kristijan Sedlak
-    url:            https://github.com/xpepermint
+    name: Kristijan Sedlak
+    url: https://github.com/xpepermint
   mfilej:
-    name:           Miha Filej
-    url:            http://miha.filej.net
-    email:          miha@filej.net
+    name: Miha Filej
+    url: http://miha.filej.net
+    email: miha@filej.net
 
-paginate:         9
+paginate: 9
 
 # defaults
 sass:
-  style:  expanded  # nested|expanded|compact|compressed
-  deploy_style: compressed  # nested|expanded|compact|compressed
+  style: expanded # nested|expanded|compact|compressed
+  deploy_style: compressed # nested|expanded|compact|compressed
   # "deploy_style:" is used only for building the site
   # (ie: not using the --watch flag)
 
-  compile_in_place: false   # true|false
+  compile_in_place: false # true|false
   # If true, compiles sass directly into your jekyll source directory
   # As well as your destination directory
 
   sass_dir: assets/css
 
-gems:
-- jekyll-mentions
-- jemoji
-- jekyll-sitemap
-- jekyll-paginate
+plugins:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-paginate
