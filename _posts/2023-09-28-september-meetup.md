@@ -15,6 +15,8 @@ There was also a mini presentation, by the legendary [Miha Rekar]. It was hearte
 
 We extend our gratitude to [SciNote] for their sponsorship of this meetup and their support of our Ruby community, and to community member [Krištof Črnivec] for organizing the event.
 
+## Photos
+
 <div class="gallery">
   <a href="/assets/img/posts/2023-09-23-meetup.jpg" target="_blank" >
     <img src="/assets/img/posts/2023-09-23-meetup.jpg" alt="Attendees of Ruby Meetup September 2023 Ljubljana">
@@ -29,6 +31,12 @@ We extend our gratitude to [SciNote] for their sponsorship of this meetup and th
     <img src="/assets/img/posts/2023-09-23-meetup-miha-rekar.jpg" alt="Miha Rekar: Rails 7.1">
   </a>
 </div>
+
+## Videos
+
+<iframe height="400" src="//www.youtube.com/embed/uR9DI3ykWfw" frameborder="0" style="width:100%" allowfullscreen></iframe>
+<iframe height="400" src="//www.youtube.com/embed/-cwQ02HoJfQ" frameborder="0" style="width:100%" allowfullscreen></iframe>
+<iframe height="400" src="//www.youtube.com/embed/iDb4gW7-LIk" frameborder="0" style="width:100%" allowfullscreen></iframe>
 
 [Slovenian Computer History Museum]: https://www.racunalniski-muzej.si/
 [Andraž "Brodul" Brodnik]: https://www.brodul.org/
