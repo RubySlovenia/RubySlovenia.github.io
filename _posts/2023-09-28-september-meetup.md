@@ -34,8 +34,8 @@ We extend our gratitude to [SciNote] for their sponsorship of this meetup and th
 
 ## Videos
 
-<iframe height="400" src="//www.youtube.com/embed/uR9DI3ykWfw" frameborder="0" style="width:100%" allowfullscreen></iframe>
-<iframe height="400" src="//www.youtube.com/embed/-cwQ02HoJfQ" frameborder="0" style="width:100%" allowfullscreen></iframe>
+<iframe height="400" src="//www.youtube.com/embed/Usrci1AMJP0" frameborder="0" style="width:100%" allowfullscreen></iframe>
+<iframe height="400" src="//www.youtube.com/embed/_dGb3qOafDY" frameborder="0" style="width:100%" allowfullscreen></iframe>
 <iframe height="400" src="//www.youtube.com/embed/iDb4gW7-LIk" frameborder="0" style="width:100%" allowfullscreen></iframe>
 
 [Slovenian Computer History Museum]: https://www.racunalniski-muzej.si/
