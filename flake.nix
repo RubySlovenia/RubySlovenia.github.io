@@ -9,15 +9,7 @@
     flake-parts.lib.mkFlake { inherit inputs; } {
       systems = [ "x86_64-linux" "aarch64-linux" "aarch64-darwin" "x86_64-darwin" ];
       perSystem = { pkgs, ... }: {
-        devShells.default = pkgs.mkShell {
-          packages = [
-            pkgs.ruby_3_2
-            pkgs.bundler
-            pkgs.nixpkgs-fmt
-          ];
-        };
-
-        formatter = pkgs.nixpkgs-fmt;
+        devShells.default = pkgs.callPackage ./shell.nix { };
       };
     };
 }
