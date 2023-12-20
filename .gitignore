@@ -17,6 +17,7 @@ notes.txt
 *.vi
 *~
 .sass-cache
+.bundle
 
 # OS or Editor folders
 .DS_Store
@@ -33,3 +34,4 @@ node_modules
 *.sublime-project
 *.sublime-workspace
 .idea
+.bundler
