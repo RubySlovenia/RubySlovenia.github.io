@@ -46,9 +46,9 @@ authors:
     name: Klemen Nagode
     url: http://www.klemen.info
     email: klemen.nagode@gmail.com
-  lenart:
+  lenartr:
     name: Lenart Rudel
-    url: http://twitter.com/lenart
+    url: https://www.linkedin.com/in/lenartr/
     email: lenart.rudel@gmail.com
   danes:
     name: Dane Šoba
@@ -79,6 +79,10 @@ authors:
     name: Miha Filej
     url: http://miha.filej.net
     email: miha@filej.net
+  kcrnivec:
+    name: Krištof Črnivec
+    url: https://blog.crnivec.com/
+    email: kristof.crnivec@gmail.com
 
 paginate: 9
 
