@@ -37,4 +37,4 @@ We want to express our appreciation to [SciNote] for sponsoring this meetup and 
 [Oto Brglez]: https://github.com/otobrglez
 [Scala]: https://www.scala-lang.org/
 [SciNote]: https://www.scinote.net/
-[Krištof Črnivec]: https://si.linkedin.com/in/kri%C5%A1tof-%C4%8Drnivec-582a60150
+[Krištof Črnivec]: https://www.linkedin.com/in/kristof-crnivec

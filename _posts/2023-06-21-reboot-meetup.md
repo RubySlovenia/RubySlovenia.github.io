@@ -17,7 +17,7 @@ In addition to the main talks, [Sally Roth] shared valuable strategies on how to
 
 [Lenart Rudel] shared his experiences and insights from his visit to the [RubyDay] conference in Verona. His mini talk allowed attendees to gain exposure to the larger Ruby community and inspired them to explore further opportunities for professional development and networking.
 
-The attendees expressed their gratitude to [Krištof Črnivec](https://si.linkedin.com/in/kri%C5%A1tof-%C4%8Drnivec-582a60150), the driving force behind the revival of the Ruby meetup, and to [SciNote](https://www.scinote.net/) for their sponsorship.
+The attendees expressed their gratitude to [Krištof Črnivec], the driving force behind the revival of the Ruby meetup, and to [SciNote](https://www.scinote.net/) for their sponsorship.
 
 <div class="gallery">
   <a href="/assets/img/posts/2023-06-21-meetup-jarvis.jpg" target="_blank" >
@@ -36,6 +36,7 @@ The attendees expressed their gratitude to [Krištof Črnivec](https://si.linked
 
 [John Jarvis]: https://si.linkedin.com/in/john-jarvis-287a246
 [Martin Artnik]: https://si.linkedin.com/in/martin-artnik-6826485b
+[Krištof Črnivec]: https://www.linkedin.com/in/kristof-crnivec
 [Sally Roth]: https://sallyroth.dev/
 [Lenart Rudel]: https://si.linkedin.com/in/lenartr
 [Slovenian Computer History Museum]: https://www.racunalniski-muzej.si/
