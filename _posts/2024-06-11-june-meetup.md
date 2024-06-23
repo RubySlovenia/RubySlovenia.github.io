@@ -31,10 +31,13 @@ We are looking forward to our next event in the fall and are thankful for such a
   <a href="/assets/img/posts/2024-06-11-predrag-radenkovic-sidekiq.jpeg" target="_blank" >
     <img src="/assets/img/posts/2024-06-11-predrag-radenkovic-sidekiq.jpeg" alt="Predrag Radenković: Sidekiq at Scale">
   </a>
+  <a href="/assets/img/posts/2024-06-11-radan-skoric-ar-lambdas.jpeg" target="_blank" >
+    <img src="/assets/img/posts/2024-06-11-radan-skoric-ar-lambdas.jpeg" alt="Radan Skorić: Chaining lambdas in Active Record hooks">
+  </a>
 </div>
 
 [Simon Žlender]: https://github.com/szlend
 [Predrag Radenković]: https://www.linkedin.com/in/predrag-radenkovic-07512116
-[Radan Skoric]: https://radanskoric.com/
+[Radan Skorić]: https://radanskoric.com/
 [SciNote]: https://www.scinote.net/
 [Krištof Črnivec]: https://www.linkedin.com/in/kristof-crnivec
