@@ -11,6 +11,8 @@ The first talk was by [Simon Žlender], who had a presentation about Nix and Nix
 
 The second talk was by [Predrag Radenković], who shared interesting techniques for handling massive background job loads and making background jobs more robust. He talked about battle-proven techniques for preventing bottlenecks and rogue jobs. We heard about interesting ways of leveraging Lua to create simple middleware for Redis, techniques for quarantining problematic jobs during interventions, and many useful tips on tweaking concurrency settings.
 
+There was also a lightning talk by [Radan Skorić], who presented a couple of ways to leverage lambda functions to chain Active Record hooks in a clean and simple manner.
+
 As always, we extend our heartfelt thanks to the organizer [Krištof Črnivec] for putting together yet another fantastic meetup and to [SciNote] for sponsoring the event.
 
 We are looking forward to our next event in the fall and are thankful for such a vibrant and welcoming community.
@@ -33,5 +35,6 @@ We are looking forward to our next event in the fall and are thankful for such a
 
 [Simon Žlender]: https://github.com/szlend
 [Predrag Radenković]: https://www.linkedin.com/in/predrag-radenkovic-07512116
+[Radan Skoric]: https://radanskoric.com/
 [SciNote]: https://www.scinote.net/
 [Krištof Črnivec]: https://www.linkedin.com/in/kristof-crnivec
