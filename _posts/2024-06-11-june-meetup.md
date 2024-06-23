@@ -15,6 +15,11 @@ As always, we extend our heartfelt thanks to the organizer [Krištof Črnivec] f
 
 We are looking forward to our next event in the fall and are thankful for such a vibrant and welcoming community.
 
+## Slides
+
+<a href="https://slides.com/szlend/introduction-to-nix" target="_blank">Simon Žlender: Introduction to Nix</a> <br>
+<a href="https://docs.google.com/presentation/d/1gqj274lecqMpGsKZZch8c7V0vTnkS7-PsB-NclHLT8k/edit#slide=id.gc6f80d1ff_0_0" target="_blank">Predrag Radenković: Sidekiq at scale</a>
+
 ## Photos
 
 <div class="gallery">
