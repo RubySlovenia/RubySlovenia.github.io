@@ -19,7 +19,7 @@ Like always, we had lots of discussions after the talks over beer which was kind
 
 Thanks everyone who came and thanks again to our sponsors - [Toptal](http://www.toptal.com) and [Poligon](http://www.poligon.si) who make events like this possible.
 
-Make sure you bookmark our meetup page so you won’t miss our [next event](http://www.meetup.com/RubySlovenia/). And if you feel like chatting you’re always welcome to join our [Slack](http://slack.rug.si/).
+Make sure you bookmark our meetup page so you won’t miss our [next event](http://www.meetup.com/RubySlovenia/). And if you feel like chatting you’re always welcome to join our [Slack](https://join.slack.com/t/rubyslovenia/shared_invite/zt-2sedgruvo-gT0KbZbJegW~rK3Jmln~Lg).
 
 <div class="gallery">
   <a href="/assets/img/posts/2016-11-25-meetup-1.jpg" target="_blank">

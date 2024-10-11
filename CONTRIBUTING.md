@@ -17,4 +17,4 @@ We love pull requests from everyone. Follow the Contributor Covenant [code of co
 
 At this point you're waiting on us. We like to at least comment on, if not accept, pull requests within three business days (and, typically, one business day). We may suggest some changes or improvements or alternatives.
 
-If you have further questions, contact us on [Slack](http://slack.rug.si/).
+If you have further questions, contact us on [Slack](https://join.slack.com/t/rubyslovenia/shared_invite/zt-2sedgruvo-gT0KbZbJegW~rK3Jmln~Lg).

@@ -28,7 +28,7 @@ Tradition dictates, to have a beer after the talks. We mostly obey.
 
 Thanks everyone for coming! We'd also like to thank our sponsors [Toptal](http://www.toptal.com), [Poligon](http://www.poligon.si) and [V živo](http://vzivo.si).
 
-See you [next time](http://www.meetup.com/RubySlovenia/)! In the meantime, we can also chat on our [Slack](http://slack.rug.si/).
+See you [next time](http://www.meetup.com/RubySlovenia/)! In the meantime, we can also chat on our [Slack](https://join.slack.com/t/rubyslovenia/shared_invite/zt-2sedgruvo-gT0KbZbJegW~rK3Jmln~Lg).
 
 <div class="gallery">
   <a href="/assets/img/posts/2016-05-26-meetup-1.jpg" target="_blank">

@@ -17,11 +17,11 @@ He then recapped a newish proposal called Guilds of organizing code to handle co
 
 After the main talk, there was a shorter talk in which Matija Cankar presented an open source project which his company [XLAB](http://www.xlab.si/) is involved with. It has to do with maintaining a cloud infrastructure over different providers. Our Ruby community being more of a freelancer crowd, we might not have been the perfect audience but who knows when one might need a 200-server cloud, right?
 
-Beers were had, experiences exchanged, new projects thought up (maybe). Good fun, all in all.  
+Beers were had, experiences exchanged, new projects thought up (maybe). Good fun, all in all.
 
 Thanks everyone for coming and thanks to our sponsors - [Toptal](http://www.toptal.com), [Poligon](http://www.poligon.si) and [V živo](http://vzivo.si) - who make events like this possible.
 
-As always make sure you bookmark our meetup page so you won’t miss our [next event](http://www.meetup.com/RubySlovenia/). If you feel like chatting you’re welcome to join our [Slack](http://slack.rug.si/).
+As always make sure you bookmark our meetup page so you won’t miss our [next event](http://www.meetup.com/RubySlovenia/). If you feel like chatting you’re welcome to join our [Slack](https://join.slack.com/t/rubyslovenia/shared_invite/zt-2sedgruvo-gT0KbZbJegW~rK3Jmln~Lg).
 
 <div class="gallery">
   <a href="/assets/img/posts/2016-09-29-meetup.jpg" target="_blank">

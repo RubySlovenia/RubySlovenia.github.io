@@ -17,4 +17,4 @@ Second presenter was [Matic Jurglič](http://jurglic.si/) from [D·Labs](http://
 
 Video recording was generously done by team from [V Živo](http://www.vzivo.si/).
 
-That was it for March. Join us on our [next event](http://www.meetup.com/RubySlovenia/)! In the mean time you should follow us on [Twitter](https://twitter.com/RubySlovenia) and join us on [Facebook](https://www.facebook.com/groups/RubySlovenia/) and [Slack](http://slack.rug.si/).
+That was it for March. Join us on our [next event](http://www.meetup.com/RubySlovenia/)! In the mean time you should follow us on [Twitter](https://twitter.com/RubySlovenia) and join us on [Facebook](https://www.facebook.com/groups/RubySlovenia/) and [Slack](https://join.slack.com/t/rubyslovenia/shared_invite/zt-2sedgruvo-gT0KbZbJegW~rK3Jmln~Lg).

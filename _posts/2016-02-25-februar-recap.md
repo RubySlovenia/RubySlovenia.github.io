@@ -17,4 +17,4 @@ After the presentation it almost felt like many of the attendees went home to im
 
 All in all it was another great event. Thanks everyone for coming and thanks to our sponsors - [Toptal](http://www.toptal.com), [V Živo](http://www.vzivo.si/) and [Poligon](http://www.poligon.si/) - who make events like this possible.
 
-As always make sure you bookmark [our meetup page](http://www.meetup.com/RubySlovenia/) so you won't miss our next event. If you feel like chatting you're welcome to join our [Slack group](http://slack.rug.si/).
+As always make sure you bookmark [our meetup page](http://www.meetup.com/RubySlovenia/) so you won't miss our next event. If you feel like chatting you're welcome to join our [Slack group](https://join.slack.com/t/rubyslovenia/shared_invite/zt-2sedgruvo-gT0KbZbJegW~rK3Jmln~Lg).

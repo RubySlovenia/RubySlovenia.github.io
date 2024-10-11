@@ -5,7 +5,7 @@ author: danes
 bg_photo: /assets/img/posts/2016-03-31-meetup-2.jpg
 ---
 
-March brought us springtime, sunshine, and another Ruby meetup. 
+March brought us springtime, sunshine, and another Ruby meetup.
 
 [Lenart Rudel](https://github.com/lenart) presented [Hanami](http://hanamirb.org), a fresh take on web development in Ruby. Hanami is an alternative web framework that focuses on simplicity, performance, explicitness over magic, object-oriented architecture and testability. He discussed the differences between Rails and Hanami, its benefits, the viability of using it in production, and some code examples.
 
@@ -21,21 +21,21 @@ After the talks, beers were had and opinions were exchanged.
 
 Thanks everyone for coming! We'd also like to thank our sponsors [Toptal](http://www.toptal.com), [Poligon](http://www.poligon.si) and [V živo](http://vzivo.si).
 
-See you [next time](http://www.meetup.com/RubySlovenia/)! In the meantime, we can also chat on our [Slack](http://slack.rug.si/).
+See you [next time](http://www.meetup.com/RubySlovenia/)! In the meantime, we can also chat on our [Slack](https://join.slack.com/t/rubyslovenia/shared_invite/zt-2sedgruvo-gT0KbZbJegW~rK3Jmln~Lg).
 
 <div class="gallery">
   <a href="/assets/img/posts/2016-03-31-meetup-1.jpg" target="_blank">
     <img src="/assets/img/posts/2016-03-31-meetup-1.jpg" alt="Ruby meetup - March 2016">
   </a>
-  
+
   <a href="/assets/img/posts/2016-03-31-meetup-2.jpg" target="_blank">
     <img src="/assets/img/posts/2016-03-31-meetup-2.jpg" alt="Ruby meetup - March 2016">
   </a>
-  
+
   <a href="/assets/img/posts/2016-03-31-meetup-3.jpg" target="_blank">
     <img src="/assets/img/posts/2016-03-31-meetup-3.jpg" alt="Ruby meetup - March 2016">
   </a>
-  
+
   <a href="/assets/img/posts/2016-03-31-meetup-4.jpg" target="_blank">
     <img src="/assets/img/posts/2016-03-31-meetup-4.jpg" alt="Ruby meetup - March 2016">
   </a>

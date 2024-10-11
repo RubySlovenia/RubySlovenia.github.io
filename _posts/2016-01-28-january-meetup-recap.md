@@ -19,7 +19,7 @@ The event was unofficially continued with free drinks and many interesting conve
 
 Thanks everyone for coming, thanks to [Toptal](http://www.toptal.com) for free drinks and to [Poligon](http://www.poligon.si/) for sharing their space with us. Together we are probably making the best software community in Slovenia! High five!
 
-You should join us on our [next event](http://www.meetup.com/RubySlovenia/)! If you can't wait, you can find us on [Slack](http://slack.rug.si/).
+You should join us on our [next event](http://www.meetup.com/RubySlovenia/)! If you can't wait, you can find us on [Slack](https://join.slack.com/t/rubyslovenia/shared_invite/zt-2sedgruvo-gT0KbZbJegW~rK3Jmln~Lg).
 
 <div class="gallery">
   <img src="/assets/img/posts/2016-01-28_meetup.jpg" alt="Ruby meetup - January 2016">
