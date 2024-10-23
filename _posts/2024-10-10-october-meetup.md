@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October Ruby Meetup: Event sourcing, Turbo, Kamal, and devenv"
+title: "October Ruby Meetup: Event sourcing, Turbo, Kamal, devenv, and AI"
 author: jurgen
 bg_photo: /assets/img/posts/2024-10-10-meetup-group-2.jpeg
 ---
