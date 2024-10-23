@@ -5,16 +5,21 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.description }}
+    {{ site.description }}
     {% else %}
-      {{ page.title }} &middot; {{ site.description }}
+    {{ page.title }} &middot; {{ site.description }}
     {% endif %}
   </title>
+
+  {% if include.bg_photo %}
+  <meta property="og:image" content="{{ site.url }}{{ include.bg_photo }}">
+  {% endif %}
 
   <link rel="stylesheet" href="/assets/css/rug14.css">
   <link rel="stylesheet" href="/assets/css/syntax.css">
   <link rel="stylesheet" href="/assets/css/bootstrap-dropdown.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=latin,latin-ext' rel='stylesheet'
+    type='text/css'>
 
   <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="/favicon.ico">
