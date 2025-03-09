@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Winter Ruby Meetup: Agile Rails and AI-assisted Development"
-author: matic
+author: jurgen
 bg_photo: /assets/img/posts/2025-03-05-meetup-martin-artnik.jpg
 ---
 
