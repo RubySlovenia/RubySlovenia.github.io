@@ -13,7 +13,7 @@ Rubyists gathered once again at the [Computer History Museum] for our Summer Mee
 
 Once the controversy settled, [Miha Rekar] shared highlights from his recent trip to the [Rails World 2025] conference in Amsterdam. Beyond DHH's energizing keynote and the lavish after-party at the Museum of Street Art, Rekar found it difficult to choose favorite moments from such a rich event. He was among the conference's lightning talk speakers, presenting an extended version of his Visualizer project that he had previously shared at our last Ruby meetup.
 
-[Krištof Črnivec], our meetup's main organizer, concluded the presentations with an exploration of his minimalist Linux setup, showcasing his commitment to a keyboard-only, terminal-based development workflow. Drawing inspiration from DHH's recently released [Omarchy] — "an opinionated setup of the Arch Linux distribution and the Hyprland tiling window manager" — Črnivec shared his insights on the many advantages of tiling window managers, which he considers one of Linux's most significant workflow benefits over macOS and Windows.
+[Krištof Črnivec], our meetup's organizer, concluded the presentations with an exploration of his minimalist Linux setup, built with [i3] and [Nix], showcasing his commitment to a keyboard-only, terminal-based development workflow. Drawing inspiration from DHH's recently released [Omarchy] — "an opinionated setup of the Arch Linux distribution and the Hyprland tiling window manager" — Črnivec shared his insights on the many advantages of tiling window managers, which he considers one of Linux's most significant workflow benefits over macOS and Windows.
 
 Since our usual post-meetup hangout spot, Kino Šiška, was occupied by a crowd of rock fans warming up for the venue's anniversary concert, we retreated to the nearest parking lot. There we finished off the meetup's complimentary beer — graciously donated by the kind souls from [DevOpsDays Ljubljana] — while sharing the remainder of the stories that shaped our summer days.
 
@@ -38,5 +38,7 @@ Since our usual post-meetup hangout spot, Kino Šiška, was occupied by a crowd 
 [Miha Rekar]: https://mr.si/
 [Rails World 2025]: https://rubyonrails.org/world/2025
 [Krištof Črnivec]: https://www.linkedin.com/in/kristof-crnivec
+[i3]: https://i3wm.org/
+[Nix]: https://nixos.org/
 [Omarchy]: https://omarchy.org
 [DevOpsDays Ljubljana]: https://devopsdays.si
