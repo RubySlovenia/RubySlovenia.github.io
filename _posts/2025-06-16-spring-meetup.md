@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Ruby Meetup: Dictation, AI Skepticism & Coffee Analytics"
+title: "Spring Ruby Meetup: Dictation, AI Skepticism, and Coffee Analytics"
 author: matickocijancic
 bg_photo: /assets/img/posts/2025-06-16-meetup-01.jpeg
 ---
@@ -23,7 +23,7 @@ Once the formal session concluded and the beer tap ran dry, the group headed to 
 
 <div class="gallery">
   <a href="/assets/img/posts/2025-06-16-meetup-01.jpeg" target="_blank" >
-    <img src="assets/img/posts/2025-06-16-meetup-01.jpeg" alt="Group photo of the meetup">
+    <img src="/assets/img/posts/2025-06-16-meetup-01.jpeg" alt="Group photo of the meetup">
   </a>
   <a href="/assets/img/posts/2025-06-16-meetup-02.jpg" target="_blank" >
     <img src="/assets/img/posts/2025-06-16-meetup-02.jpg" alt="Miha Rekar presenting visualizer.coffee">
@@ -32,7 +32,7 @@ Once the formal session concluded and the beer tap ran dry, the group headed to 
     <img src="/assets/img/posts/2025-06-16-meetup-03.jpeg" alt="Group photo of the meetup">
   </a>
   <a href="/assets/img/posts/2025-06-16-meetup-04.jpeg" target="_blank" >
-    <img src="assets/img/posts/2025-06-16-meetup-04.jpeg" alt="Miha Rekar, Martin Artnik, and Krištof Črnivec">
+    <img src="/assets/img/posts/2025-06-16-meetup-04.jpeg" alt="Miha Rekar, Martin Artnik, and Krištof Črnivec">
   </a>
   <a href="/assets/img/posts/2025-06-16-meetup-05.jpg" target="_blank" >
     <img src="/assets/img/posts/2025-06-16-meetup-05.jpg" alt="Meetup attendees performing wrist exercises">
